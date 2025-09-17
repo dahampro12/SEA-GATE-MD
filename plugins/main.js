@@ -68,7 +68,7 @@ const number = conn.user.id.split(':')[0].replace(/@s\.whatsapp\.net$/, '');
 
     // ALIVE: Default Mode
     if (config.ALIVE === "default") {
-      const details = (await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json')).data;
+      const details = (await axios.get('https://github.com/Thinura-neth/resoures-for-seagate-md/blob/main/main_var.json')).data;
 
       const defaultMessage = {
         image: { url: config.LOGO },
@@ -439,7 +439,7 @@ async (conn, mek, m, {
 
     try {
 
-	    const details = (await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json')).data;
+	    const details = (await axios.get('https://github.com/Thinura-neth/resoures-for-seagate-md/blob/main/main_var.json')).data;
         let inviteCode = `${details.supglink}`;
          
     let result = inviteCode.split(" ")[0].split("https://chat.whatsapp.com/")[1];
