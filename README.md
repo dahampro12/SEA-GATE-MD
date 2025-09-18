@@ -15,7 +15,7 @@ Mini Developers INC have been designed to make things easier and fun while using
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=7600bc&width=435&lines=VISPER+MD+WHATSAPP+BOT;VERSION+4.0.0;CREATED+BY+VISPER+INC;Dark+Cyber+Matrix" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=7600bc&width=435&lines=SEAGATE+MD+WHATSAPP+BOT;VERSION+4.0.0;CREATED+BY+MINI+DEVELOPERS+INC;" alt="Typing SVG" /></a>
 </p>
 
 **Project SEA-GATE** is a multi-device WhatsApp user bot that allows you to search, stream, and download movies seamlessly. This bot is designed to simplify entertainment for users, providing an easy and convenient way to access movies and more. The project is developed in **JavaScript** and containerized using **Docker**. The developers are not responsible for misuse or unauthorized modifications to this project. Enjoy responsibly! 🎗✨
