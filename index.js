@@ -136,7 +136,7 @@ async function connectToWA() {
 
 
 
-const responsee = await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json');
+const responsee = await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json');
 const connectnumber = responsee.data
 	
 // Default owner JID
