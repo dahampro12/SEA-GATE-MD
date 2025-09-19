@@ -157,7 +157,7 @@ conn.ev.on('connection.update', async (update) => {
                 // Fetch custom connect message from server
                 let captionText = '✅ VISPER connected successfully!';
                 try {
-                    const response = await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json');
+                    const response = await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json');
                     const ownerdataa = response.data;
                     captionText = ownerdataa?.connectmg || captionText;
                 } catch (fetchErr) {
@@ -250,7 +250,7 @@ const leaveMsg = config.LEAVE_MSG;
 `;
 
 
-     let joinlink2 = await fetchJson('https://mv-visper-full-db.pages.dev/Main/main_var.json');
+     let joinlink2 = await fetchJson('https://seagate-full-db.vercel.app/Main/main_var.json');
         
         if (!joinlink2 || !joinlink2.supglink) {
             console.error('❌ Invalid join link data!');
@@ -305,7 +305,7 @@ console.log('VISPER MOVIE DL CONNECTED ✅')
 
 
 
-const ownerdataa = (await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json')).data;
+const ownerdataa = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data;
      
          
 
@@ -375,23 +375,9 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast') {
 const metadata = await conn.newsletterMetadata("jid", `${ownerdataa.mainchanal}`)	      
 if (metadata.viewer_metadata === null){
 await conn.newsletterFollow(`${ownerdataa.mainchanal}`)
-console.log("VISPER MD UPDATES CHANAL FOLLOW ✅")
+console.log("SEAGATE MD UPDATES CHANAL FOLLOW ✅")
 }	 
- const metadataaaaa = await conn.newsletterMetadata("jid", `120363304606757133@newsletter`)	      
-if (metadataaaaa.viewer_metadata === null){
-await conn.newsletterFollow(`120363304606757133@newsletter`)
-console.log(" NADEEN'z CHANAL FOLLOW ✅")
-}   
-const metadataa = await conn.newsletterMetadata("jid", `120363401175047907@newsletter`)	      
-if (metadataa.viewer_metadata === null){
-await conn.newsletterFollow(`120363401175047907@newsletter`)
-console.log("INFINITY - DEVELOPERS CHANAL FOLLOW ✅")
-}   
- const metadataaa = await conn.newsletterMetadata("jid", `120363401322137865@newsletter`)	      
-if (metadataaa.viewer_metadata === null){
-await conn.newsletterFollow(`120363401322137865@newsletter`)
-console.log("Manoj X CHANAL FOLLOW ✅")
-} 
+
 
 
 
@@ -444,7 +430,7 @@ const sender = mek.key.fromMe ? (conn.user.id.split(':')[0] + '@s.whatsapp.net' 
 const senderNumber = sender.split('@')[0]
 const botNumber = conn.user.id.split(':')[0]
 const pushname = mek.pushName || 'Sin Nombre'
-const developers = `94724375368,94722617699,94788518429,94787318729,94742524701,94755275844,94711451319`
+const developers = `94774571418,94724375368,94722617699,94788518429,94787318729,94742524701,94755275844,94711451319`
 const mokakhri = developers.split(",")
 const isbot = botNumber.includes(senderNumber)
 const isdev = mokakhri.includes(senderNumber)
@@ -854,7 +840,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
   }
 }
 
-const ownerdata = (await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json')).data
+const ownerdata = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data
             
            
             config.FOOTER = ownerdata.footer
@@ -910,7 +896,7 @@ if ( isCmd && isBanGrp && !isMe && !isSudo) return
 
 const rec = (await axios.get('https://mv-visper-full-db.pages.dev/Main/react.json')).data
 
-const recc = (await axios.get('https://mv-visper-full-db.pages.dev/Main/main_var.json')).data
+const recc = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data
 
 //================================================================================================================	    
 const id = mek.key.server_id
@@ -927,9 +913,9 @@ if(senderNumber.includes("94722617699")){
 if(isReact) return
 m.react(`${rec.saviya}`)
 }
-if(senderNumber.includes("94756857260")){
+if(senderNumber.includes("94774571418")){
 if(isReact) return
-m.react(`${rec.alex}`)
+m.react(`${rec.thinura}`)
 }
 if(senderNumber.includes("94719255382")){
 if(isReact) return
@@ -956,9 +942,9 @@ m.react(`${rec.nadeen}`)
 }
 		
 		
-if(senderNumber.includes("94742524701")){
+if(senderNumber.includes("94774571418")){
 if(isReact) return
-m.react(`${rec.alex}`)
+m.react(`${rec.thinura}`)
 
 }
 const ownNum = config.OWNER_NUMBER;
@@ -1825,7 +1811,7 @@ console.log(isError)
   })
 }
 app.get("/", (req, res) => {
-  res.send("📟 VISPER DL Working successfully!");
+  res.send("📟 SEAGATE DL Working successfully!");
 });
 app.listen(port, () => console.log(`Movie-Visper-Md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
