@@ -110,9 +110,9 @@ async (conn, mek, m, {
     const uptime = await runtime(process.uptime());
 
     // Load external bot details
-    const details = (await axios.get('https://github.com/Thinura-neth/resoures-for-seagate-md/blob/main/main_var.json')).data;
+    const details = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data;
 
-        const MNG = `*🫟 VISPER MD - Bot Menu*
+        const MNG = `*🫟 SEAGATE MD - Bot Menu*
 
 > *Uptime:* ${uptime}
 > *RAM Usage:* ${ramUsage}
