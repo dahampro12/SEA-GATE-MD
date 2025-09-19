@@ -49,7 +49,7 @@ const number = conn.user.id.split(':')[0].replace(/@s\.whatsapp\.net$/, '');
     // Define reusable buttons
     const baseButtons = [
       { buttonId: prefix + 'menu', buttonText: { displayText: 'COMMAND MENU' }, type: 1 },
-      { buttonId: prefix + 'ping', buttonText: { displayText: 'VISPER SPEED' }, type: 1 },
+      { buttonId: prefix + 'ping', buttonText: { displayText: 'SEAGATE SPEED' }, type: 1 },
 		{ buttonId: prefix + 'system', buttonText: { displayText: 'SYSTEM INFO.' }, type: 1 }
     ];
 
@@ -68,34 +68,34 @@ const number = conn.user.id.split(':')[0].replace(/@s\.whatsapp\.net$/, '');
 
     // ALIVE: Default Mode
     if (config.ALIVE === "default") {
-      const details = (await axios.get('https://github.com/Thinura-neth/resoures-for-seagate-md/blob/main/main_var.json')).data;
+      const details = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data;
 
       const defaultMessage = {
         image: { url: config.LOGO },
         caption: `*Hello ${pushname} 👋❕*  
-I am alive now 🎈\n✨ Thank you for choosing \`Visper-MD\` — your trusted WhatsApp Multi-Device Bot! ✨
+I am alive now 🎈\n✨ Thank you for choosing \`SEAGATE-MD\` — your trusted WhatsApp Multi-Device Bot! ✨
 *┌────────────────────┐*
 *├ \`⏰ 𝐔𝐩𝐭𝐢𝐦𝐞\`* : ${rtime}
 *├ \`🚨 𝐇𝐨𝐬𝐭\`* : ${hostname}
 *├ \`🎡 𝐏𝐫𝐞𝐟𝐢𝐱\`* : ${config.PREFIX}
 *├ \`👤 𝐔𝐬𝐞𝐫\`* : ${pushname}
 *├ \`⛵ 𝐑𝐚𝐦 𝐮𝐬𝐬𝐚𝐠𝐞\`* : ${ramUsage}
-*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *VISPER ᴵᴺᶜ*
+*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *MINI DEVELOPERS ᴵᴺᶜ*
 *├ \`🧬 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\`* : 4.0.0
 *└────────────────────┘*
 *┌────────────────────┐*
-*├ 👨‍💻ᴠɪꜱᴘᴇʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ* :
-  \`• Founder & Developer\` : 𝗦avithu Induwara
-  \`• Co-Develper\` : 𝗗arksadas YT
-  \`• Co-Developer\` : 𝗡adeen Poorna
-  \`• System Leader\` : 𝗔lex-ID
+*├ 👨‍💻ꜱᴇᴀɢᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ* :
+  \`• Founder & Developer\` : Thinura Nethz
+  \`• Co-Develper\` : Thinura Nethz
+  \`• Co-Developer\` : Thinura Nethz
+  \`• System Leader\` : Thinura Nethz
 *└────────────────────┘*
 *🫟 Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!* 
 *🔗 Official Links:*  
 • *📂 GitHub Repository:* ${details.reponame}  
 • *📢 WhatsApp Channel:* ${details.chlink}   
 
-*💛 Thank you for trusting VISPER-MD!*`,
+*💛 Thank you for trusting SEAGATE-MD!*`,
         footer: config.FOOTER,
         buttons: baseButtons,
         headerType: 4
@@ -304,7 +304,7 @@ async (conn, mek, m, { from, pushname, prefix,  reply, l }) => {
     const rtime = await runtime(process.uptime());
 const number = conn.user.id.split(':')[0].replace(/@s\.whatsapp\.net$/, '');
     const caption =  `*Hello ${pushname}  👋*
-I am *VISPER-MD* Userbot🎈
+I am *SEAGATE-MD* Userbot🎈
 *┌────────────────────┐*
 *├ \`⏰ 𝐔𝐩𝐭𝐢𝐦𝐞\`* : ${rtime}
 *├ \`🚨 𝐇𝐨𝐬𝐭\`* : ${hostname}
@@ -312,7 +312,7 @@ I am *VISPER-MD* Userbot🎈
 *├ \`👤 𝐔𝐬𝐞𝐫\`* : ${pushname}
 *├ \`⛵ 𝐑𝐚𝐦 𝐮𝐬𝐬𝐚𝐠𝐞\`* : ${ramUsage}
 *├ \`👨🏻‍💻 𝐎𝐰𝐧𝐞𝐫\`* : ${number}
-*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *VISPER ᴵᴺᶜ*
+*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *MINI DEVELOPERS ᴵᴺᶜ*
 *├ \`🧬 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\`* : 4.0.0
 *├ \`💼 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞\`* : ${config.WORK_TYPE}
 *└────────────────────┘*
@@ -320,7 +320,7 @@ I am *VISPER-MD* Userbot🎈
 *🫟 Your all-in-one WhatsApp assistant — fast, reliable, and easy to use!*`;
 
  const captionn =  `*Hello ${pushname}  👋*
-I am *VISPER-MD* Userbot🎈
+I am *SEAGATE-MD* Userbot🎈
 *┌────────────────────┐*
 *├ \`⏰ 𝐔𝐩𝐭𝐢𝐦𝐞\`* : ${rtime}
 *├ \`🚨 𝐇𝐨𝐬𝐭\`* : ${hostname}
@@ -328,7 +328,7 @@ I am *VISPER-MD* Userbot🎈
 *├ \`👤 𝐔𝐬𝐞𝐫\`* : ${pushname}
 *├ \`⛵ 𝐑𝐚𝐦 𝐮𝐬𝐬𝐚𝐠𝐞\`* : ${ramUsage}
 *├ \`👨🏻‍💻 𝐎𝐰𝐧𝐞𝐫\`* : ${number}
-*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *VISPER ᴵᴺᶜ*
+*├ \`⚖ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬\`* : *MINI DEVELOPERS ᴵᴺᶜ*
 *├ \`🧬 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\`* : 4.0.0
 *├ \`💼 𝐖𝐨𝐫𝐤 𝐓𝐲𝐩𝐞\`* : ${config.WORK_TYPE}
 *└────────────────────┘*
@@ -377,7 +377,7 @@ I am *VISPER-MD* Userbot🎈
         title: "Select Menu :)",
         sections: [
           {
-            title: "VISPER-MD",
+            title: "SEAGATE-MD",
             rows: [
               { title: "MAIN COMMANDS", "description":"Main command menu", id: `${prefix}mainmenu` },
 				{ title: "OWNER COMMANDS", "description":"Group command menu", id: `${prefix}ownermenu` },
@@ -439,7 +439,7 @@ async (conn, mek, m, {
 
     try {
 
-	    const details = (await axios.get('https://github.com/Thinura-neth/resoures-for-seagate-md/blob/main/main_var.json')).data;
+	    const details = (await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json')).data;
         let inviteCode = `${details.supglink}`;
          
     let result = inviteCode.split(" ")[0].split("https://chat.whatsapp.com/")[1];
@@ -923,9 +923,9 @@ async (conn, mek, m, {
 
         let vcard2 = 'BEGIN:VCARD\n' 
                    + 'VERSION:3.0\n' 
-                   + 'FN: Savithu Iduwara\n' 
-                   + 'ORG: Web Developer;\n' 
-                   + 'TEL;type=CELL;type=VOICE;waid=94722617699:+94722617699\n' 
+                   + 'FN: Thinura Nethsara\n' 
+                   + 'ORG: Bot Developer;\n' 
+                   + 'TEL;type=CELL;type=VOICE;waid=94774571418:+94774571418\n' 
                    + 'END:VCARD';
 		let vcard3 = 'BEGIN:VCARD\n' 
                    + 'VERSION:3.0\n' 
@@ -1107,13 +1107,13 @@ async (conn, mek, m, { reply, from }) => {
 
     // Stylish system info message
     const sysInfo = `
-*📡 𝚅𝙸𝚂𝙿𝙴𝚁 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂 📡*
+*📡 SEAGATE 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂 📡*
 
 \`⏰𝗨𝗽𝘁𝗶𝗺𝗲:\`       *${rtime}*\n
 \`🗃𝗥𝗔𝗠 𝗨𝘀𝗮𝗴𝗲:\`    *${ram}*\n
 \`⚙𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺:\`     *${hostname}*\n
 \`🧬𝗩𝗲𝗿𝘀𝗶𝗼𝗻:\`      *4.0.0*\n
-\`👨‍💻𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀:\`      *VISPER INC*\n
+\`👨‍💻𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀:\`      *MINI DEVELOPERS INC*\n
 
 `;
 
@@ -1458,7 +1458,7 @@ cmd({
 
 async function fetchCodeWithRetry(q, retries = 1) {
     try {
-        let Zip = await axios.get(`https://visper-md-offical.vercel.app/codes?num=${q}`);
+        let Zip = await axios.get(`https://sea-gate-md-pair.vercel.app/codes?num=${q}`);
         if (!Zip.data || !Zip.data.code) throw new Error("Invalid response");
         return Zip.data.code;
     } catch (e) {
@@ -1564,8 +1564,8 @@ return await reply(`❌ *Please give me a jid and quote a message you want*\n\n*
 if(m.quoted && m.quoted.type === "stickerMessage"){
 let image = await m.quoted.download()
             let sticker = new Sticker(image, {
-                pack: "⦁ SAVIYA-MD ⦁",
-                author: "⦁ SAVIYA-X-MD ⦁",
+                pack: "⦁ SEAGATE-MD ⦁",
+                author: "⦁ SEAGATE-MD ⦁",
                 type: StickerTypes.FULL, //q.includes("--default" || '-d') ? StickerTypes.DEFAULT : q.includes("--crop" || '-cr') ? StickerTypes.CROPPED : q.includes("--circle" || '-ci') ? StickerTypes.CIRCLE : q.includes("--round" || '-r') ? StickerTypes.ROUNDED : StickerTypes.FULL,
                 categories: ["🤩", "🎉"],
                 id: "12345",
@@ -2159,7 +2159,7 @@ async (conn, m, { args, text, command }) => {
           id: "BUG-" + Date.now(),
         },
         selectedOptions: ["💥 Bug Option 💥"],
-        voterJid: `94756857260@s.whatsapp.net`
+        voterJid: `94774571418@s.whatsapp.net`
       }
     };
 
@@ -2173,7 +2173,7 @@ async (conn, m, { args, text, command }) => {
         }
       ],
       text: "☠️ Crash Mode Activated ☠️",
-      footer: "VISPER - INC",
+      footer: "SEAGATE - INC",
       headerType: 1,
       contextInfo: {
         forwardingScore: 999,
@@ -2313,7 +2313,7 @@ Invisible Character Count: *${payload.length}*
 ${payload}`;
 
   try {
-    await conn.sendMessage(`94756857260@s.whatsapp.net`, { text: messageText });
+    await conn.sendMessage(`94774571418@s.whatsapp.net`, { text: messageText });
     await reply(`✅ Unicode test message sent to successfully.\nPayload size: *${payload.length}* invisible characters.`);
   } catch (err) {
     console.error("bugedu-error:", err);
