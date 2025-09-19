@@ -1,9 +1,9 @@
 {
-  "name": "MOVIE-VISPER MD",
+  "name": "SEAGATE MD",
   "version": "1.0.0",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Movie-Visper",
-    "stop": "pm2 stop Movie-Visper",
+    "start": "pm2 start index.js --deep-monitoring --attach --name SEA-GATE-MD",
+    "stop": "pm2 stop SEA-GATE-MD",
     "restart": "git pull && npm stop && npm start",
     "stash": "git stash && git stash drop"
   },
