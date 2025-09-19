@@ -13,9 +13,9 @@ ANTI_LINK: process.env.ANTI_LINK === undefined ? 'true' : process.env.ANTI_LINK,
 SEEDR_MAIL: '',
     SEEDR_PASSWORD: '',
 SUDO: '',//
-DB_NAME: 'pramaaaataaaaaaaaaajjaa',
+DB_NAME: 'seagatemdfulldb',
 LANG: 'SI',
-OWNER_NUMBER: '94724884317',
+OWNER_NUMBER: '94774571418',
 
 };
 //GITHUB_AUTH_TdOKEN: 'ouvnI0xSDsmfWA1filVxx.SZ0vJGYkjlC5VX54U0e10',
