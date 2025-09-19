@@ -155,7 +155,7 @@ conn.ev.on('connection.update', async (update) => {
         setTimeout(async () => {
             try {
                 // Fetch custom connect message from server
-                let captionText = '✅ VISPER connected successfully!';
+                let captionText = '✅ SEAGATE connected successfully!';
                 try {
                     const response = await axios.get('https://seagate-full-db.vercel.app/Main/main_var.json');
                     const ownerdataa = response.data;
@@ -293,7 +293,7 @@ fs.readdirSync("./plugins/").forEach((plugin) => {
 console.log('All Plugins installed ⚡')
 await connectdb()
 await updb()		
-console.log('VISPER MOVIE DL CONNECTED ✅')
+console.log('SEAGATE MOVIE DL CONNECTED ✅')
 
 
 
