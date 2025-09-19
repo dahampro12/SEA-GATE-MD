@@ -25,10 +25,10 @@ async (conn, mek, m, {
 }) => {
     try {
         
-        const response = await axios.get("https://mv-visper-full-db.pages.dev/Main/main_var.json");
+        const response = await axios.get("https://seagate-full-db.vercel.app/Main/main_var.json");
         const details = response.data;
 
-        const result = `*🧿VISPER-MD🧿*
+        const result = `*🧿SEAGATE-MD🧿*
 
 \`🔖 Github:\` ${details.reponame}
 
