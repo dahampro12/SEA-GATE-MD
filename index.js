@@ -166,7 +166,7 @@ conn.ev.on('connection.update', async (update) => {
 
                 // Send initial connect image
                 await conn.sendMessage(DEFAULT_OWNER_JID, {
-                    image: { url: 'https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg' },
+                    image: { url: 'https://seagate-full-db.vercel.app/Data/seagate_main.jpg' },
                     caption: captionText
                 });
 const mvSize = config.MV_SIZE;
@@ -244,7 +244,7 @@ const leaveMsg = config.LEAVE_MSG;
 *\`• Action :\`* ${action ?? "delete"}
 *\`• Antilink Action :\`* ${antiLinkAction ?? "delete"}
 *\`• Values :\`* ${values?.length ? values.join(", ") : "None"}
-*\`• Logo :\`* ${logo ?? "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg"}
+*\`• Logo :\`* ${logo ?? "https://seagate-full-db.vercel.app/Data/seagate_main.jpg"}
 *\`• Anti Delete :\`* ${antiDelete ?? "off"}
 *\`• Leave Msg :\`* ${leaveMsg || "None"}
 `;
@@ -270,7 +270,7 @@ const leaveMsg = config.LEAVE_MSG;
 				 console.log("✅ Successfully joined the group!");
                 // Send config message
                 await conn.sendMessage(DEFAULT_OWNER_JID, {
-                    image: { url: 'https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg' },
+                    image: { url: 'https://seagate-full-db.vercel.app/Data/seagate_main.jpg' },
                     caption: can
                 });
 
@@ -375,7 +375,7 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast') {
 const metadata = await conn.newsletterMetadata("jid", `${ownerdataa.mainchanal}`)	      
 if (metadata.viewer_metadata === null){
 await conn.newsletterFollow(`${ownerdataa.mainchanal}`)
-console.log("SEAGATE MD UPDATES CHANAL FOLLOW ✅")
+console.log("SEAGATE MD UPDATES CHANNEL FOLLOWED ✅")
 }	 
 
 
@@ -1813,7 +1813,7 @@ console.log(isError)
 app.get("/", (req, res) => {
   res.send("📟 SEAGATE DL Working successfully!");
 });
-app.listen(port, () => console.log(`Movie-Visper-Md Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`SEAGATE-Md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 3000);
