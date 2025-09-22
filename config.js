@@ -4,7 +4,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-//gg
+//gg 
 module.exports = {
 SESSION_ID: 'SEAGATE-MD&7xRmjagZ#_uJc3xQFgmZYr8gjvPyA_huJB5WaXX2gFdQmPOKCJ4I',
 ANTI_DELETE: process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE, 
