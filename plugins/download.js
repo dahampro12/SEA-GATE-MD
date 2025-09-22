@@ -522,45 +522,58 @@ _*💡 You can try a smaller file or use .apply command to override.*_`);
 
 cmd({
     pattern: "ytaa",
-    react: "⬇️",
+    react: "⬇",
     dontAddCommandList: true,
     filename: __filename
 }, async (conn, mek, m, { from, q, reply }) => {
-    if (!q) return await reply('*Need a YouTube URL!*');
+    if (!q) {
+        return reply('Need a YouTube URL!');
+    }
 
     try {
-        const prog = await ytmp3(q);
+        const prog = await fetchJson(https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url=${q});
 
-        if (!prog || !prog.url) return await reply('*Conversion failed, try again!*');
-
-        try {
-            const bytes = await checkFileSize(prog.url, config.MAX_SIZE);
-            const sizeInMB = (bytes / (1024 * 1024)).toFixed(2);
-
-            // This check is redundant now, but left for safety
-            if (sizeInMB > config.MAX_SIZE) {
-                return reply(`*⚠️ File too large!*\n\n*📌 Maximum allowed: \`${config.MAX_SIZE}\` MB*`);
-            }
-
-        } catch (err) {
-            return reply(`*⚠️ File too large or cannot determine size!*\n\n*📌 Maximum allowed: \`${config.MAX_SIZE}\` MB*`);
+        if (!prog || !prog.url) {
+            return reply('Conversion failed, try again!');
         }
 
-        await conn.sendMessage(from, { react: { text: '⬆️', key: mek.key } });
+        // Check file size and get a detailed size value
+        const bytes = await checkFileSize(prog.url, config.MAX_SIZE);
 
+        if (!bytes) {
+            return reply(*⚠ File too large or cannot determine size!*);
+        }
+
+        const sizeInMB = (bytes / (1024 * 1024)).toFixed(2);
+        
+        if (sizeInMB > config.MAX_SIZE) {
+            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\` MB*`);
+        }
+
+        // Send 'uploading' reaction
+        await conn.sendMessage(from, { react: { text: '⬆', key: mek.key } });
+
+        // Send the audio file
         await conn.sendMessage(
             from,
             { audio: { url: prog.url }, mimetype: 'audio/mpeg' },
             { quoted: mek }
         );
 
-        await conn.sendMessage(from, { react: { text: '✔️', key: mek.key } });
+        // Send 'success' reaction
+        await conn.sendMessage(from, { react: { text: '✔', key: mek.key } });
 
     } catch (e) {
-        reply(N_FOUND);
-        console.log(e);
-    }
+        // Use a more specific error message based on the error
+        if (e.message.includes('too large')) {
+            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\` MB*`);
+        }
+        
+        console.error("Error in ytaa command:", e);
+        return reply(N_FOUND); // Assuming N_FOUND is a pre-defined constant for "Not Found"
+    }
 });
+
 
 cmd({
     pattern: "ytaap",
