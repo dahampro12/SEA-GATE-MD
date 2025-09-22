@@ -4,7 +4,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-//gg 
+//gg
 module.exports = {
 SESSION_ID: 'SEAGATE-MD&7xRmjagZ#_uJc3xQFgmZYr8gjvPyA_huJB5WaXX2gFdQmPOKCJ4I',
 ANTI_DELETE: process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE, 
@@ -16,7 +16,6 @@ SUDO: '',//
 DB_NAME: 'seagatemdfulldb',
 LANG: 'SI',
 OWNER_NUMBER: '94774571418',
-    
 
 };
 //GITHUB_AUTH_TdOKEN: 'ouvnI0xSDsmfWA1filVxx.SZ0vJGYkjlC5VX54U0e10',
