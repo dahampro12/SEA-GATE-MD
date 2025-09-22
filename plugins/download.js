@@ -531,7 +531,7 @@ cmd({
     }
 
     try {
-        const prog = await fetchJson(https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url=${q});
+        const prog = await fetchJson('https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url=${q}');
 
         if (!prog || !prog.url) {
             return reply('Conversion failed, try again!');
