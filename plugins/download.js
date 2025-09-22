@@ -541,7 +541,7 @@ cmd({
         const bytes = await checkFileSize(prog.url, config.MAX_SIZE);
 
         if (!bytes) {
-            return reply(*⚠ File too large or cannot determine size!*);
+            return reply("*⚠ File too large or cannot determine size!*");
         }
 
         const sizeInMB = (bytes / (1024 * 1024)).toFixed(2);
