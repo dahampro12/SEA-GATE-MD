@@ -531,7 +531,8 @@ cmd({
     }
 
     try {
-        const prog = await fetchJson('https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url=${q}');
+        // ✅ Use backticks for template literal
+        const prog = await fetchJson(`https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url=${q}`);
 
         if (!prog || !prog.url) {
             return reply('Conversion failed, try again!');
@@ -547,7 +548,8 @@ cmd({
         const sizeInMB = (bytes / (1024 * 1024)).toFixed(2);
         
         if (sizeInMB > config.MAX_SIZE) {
-            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\ MB*`);
+            // ✅ wrap whole string inside backticks
+            return reply(`*⚠ File too large!*\n\n*📌 Maximum allowed: ${config.MAX_SIZE} MB*`);
         }
 
         // Send 'uploading' reaction
@@ -564,14 +566,14 @@ cmd({
         await conn.sendMessage(from, { react: { text: '✔', key: mek.key } });
 
     } catch (e) {
-        // Use a more specific error message based on the error
+        // More specific error message
         if (e.message.includes('too large')) {
-            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\` MB*`);
+            return reply(`*⚠ File too large!*\n\n*📌 Maximum allowed: ${config.MAX_SIZE} MB*`);
         }
         
         console.error("Error in ytaa command:", e);
-        return reply(N_FOUND); // Assuming N_FOUND is a pre-defined constant for "Not Found"
-    }
+        return reply(N_FOUND); // Assuming N_FOUND is pre-defined constant
+    }
 });
 
 
