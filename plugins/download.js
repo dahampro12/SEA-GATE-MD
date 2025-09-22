@@ -547,7 +547,7 @@ cmd({
         const sizeInMB = (bytes / (1024 * 1024)).toFixed(2);
         
         if (sizeInMB > config.MAX_SIZE) {
-            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\` MB*`);
+            return reply(*⚠ File too large!*\n\n*📌 Maximum allowed: \${config.MAX_SIZE}\ MB*`);
         }
 
         // Send 'uploading' reaction
