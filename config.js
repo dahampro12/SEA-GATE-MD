@@ -16,6 +16,7 @@ SUDO: '',//
 DB_NAME: 'seagatemdfulldb',
 LANG: 'SI',
 OWNER_NUMBER: '94774571418',
+    
 
 };
 //GITHUB_AUTH_TdOKEN: 'ouvnI0xSDsmfWA1filVxx.SZ0vJGYkjlC5VX54U0e10',
