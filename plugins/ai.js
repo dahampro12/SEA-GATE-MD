@@ -1,1 +1,93 @@
-const _0x513e1a=_0x720e;function _0x720e(_0x13d3f5,_0x45922b){const _0x3fff77=_0x3fff();return _0x720e=function(_0x720ed2,_0x450034){_0x720ed2=_0x720ed2-0x141;let _0x16e723=_0x3fff77[_0x720ed2];return _0x16e723;},_0x720e(_0x13d3f5,_0x45922b);}(function(_0x856350,_0x15c91e){const _0x87e594=_0x720e,_0x5a72ea=_0x856350();while(!![]){try{const _0x3439a9=parseInt(_0x87e594(0x14e))/0x1*(parseInt(_0x87e594(0x157))/0x2)+parseInt(_0x87e594(0x16c))/0x3+-parseInt(_0x87e594(0x16b))/0x4+-parseInt(_0x87e594(0x148))/0x5+-parseInt(_0x87e594(0x15e))/0x6*(-parseInt(_0x87e594(0x161))/0x7)+-parseInt(_0x87e594(0x145))/0x8+parseInt(_0x87e594(0x151))/0x9*(parseInt(_0x87e594(0x147))/0xa);if(_0x3439a9===_0x15c91e)break;else _0x5a72ea['push'](_0x5a72ea['shift']());}catch(_0x2e1322){_0x5a72ea['push'](_0x5a72ea['shift']());}}}(_0x3fff,0x44317));const config=require(_0x513e1a(0x16a)),os=require('os'),axios=require(_0x513e1a(0x159)),mimeTypes=require(_0x513e1a(0x141)),fs=require('fs'),path=require(_0x513e1a(0x169)),{generateForwardMessageContent,prepareWAMessageFromContent,generateWAMessageContent,generateWAMessageFromContent}=require(_0x513e1a(0x14a)),{cmd,commands}=require(_0x513e1a(0x162)),{getBuffer,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,fetchJson}=require(_0x513e1a(0x164)),GEMINI_API_KEY=_0x513e1a(0x14d),{URL}=require(_0x513e1a(0x155));function _0x3fff(){const _0x258d31=['error','blackbox','url','gemini\x20your\x20question`','214LAXJmV','imggen','axios','post','Use\x20Gemini\x20AI\x20to\x20get\x20a\x20response','FOOTER','https://image.pollinations.ai/prompt/','12DsXjHz','https://api.siputzx.my.id/api/ai/blackboxai-pro?content=','gemini','647031ZPJSor','../command','blackbox\x20<\x20query\x20>','../lib/functions','parts','trim','geminiai','❌\x20*Error\x20connecting\x20to\x20Gemini\x20AI.\x20Please\x20try\x20again\x20later.*','path','../config','2229760JcirqU','836358rDayGs','❗\x20Please\x20provide\x20a\x20prompt.\x0aExample:\x20`.image\x20A\x20futuristic\x20city`','⚠️\x20Image\x20generation\x20failed.','mime-types','message','sendMessage','response','4344704eRggSK','geminichat','6470JfgegP','2246290wMglRY','text','@whiskeysockets/baileys','\x0a\x0a\x20','ai2','AIzaSyB8xtFPtvG_N9S7bBZZOSfTyZW8rQyJQkY','4060WyUwSY','data','bbox','12951ysqRUk','gemini\x20<\x20query\x20>'];_0x3fff=function(){return _0x258d31;};return _0x3fff();}cmd({'pattern':_0x513e1a(0x160),'react':'👾','alias':[_0x513e1a(0x167),_0x513e1a(0x146),_0x513e1a(0x14c)],'desc':_0x513e1a(0x15b),'category':'ai','use':_0x513e1a(0x152),'filename':__filename},async(_0x134205,_0x3cf5eb,_0x3fdc70,{from:_0x1ecfe6,args:_0x190b79,reply:_0x83d5d5,prefix:_0x246b59})=>{const _0x183dc5=_0x513e1a,_0x5538ca=_0x190b79['join']('\x20');if(!_0x5538ca)return await _0x83d5d5(noInputMsg,'`'+_0x246b59+_0x183dc5(0x156));try{const _0x81fc3f=await axios[_0x183dc5(0x15a)]('https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key='+GEMINI_API_KEY,{'contents':[{'parts':[{'text':_0x5538ca}]}]}),_0x4f0529=_0x81fc3f['data']['candidates'][0x0]['content'][_0x183dc5(0x165)][0x0][_0x183dc5(0x149)][_0x183dc5(0x166)]();await _0x83d5d5(''+_0x4f0529);}catch(_0x438213){console[_0x183dc5(0x153)]('Google\x20Gemini\x20API\x20Error:',_0x438213[_0x183dc5(0x144)]?.[_0x183dc5(0x14f)]||_0x438213[_0x183dc5(0x142)]),await _0x83d5d5(_0x183dc5(0x168));}}),cmd({'pattern':'imagen','alias':[_0x513e1a(0x158),'dalle'],'react':'🎨','desc':'Generate\x20an\x20AI\x20image','category':'ai','filename':__filename},async(_0x2ba336,_0x15fb08,_0x28bef0,{from:_0x1225a8,q:_0x4c87c0,reply:_0xf1978b})=>{const _0x31a3b2=_0x513e1a;try{if(!_0x4c87c0)return _0xf1978b(_0x31a3b2(0x16d));const _0x563756=_0x31a3b2(0x15d)+encodeURIComponent(_0x4c87c0);await _0x2ba336[_0x31a3b2(0x143)](_0x1225a8,{'image':{'url':_0x563756},'caption':'🖼️\x20AI\x20Generated\x20Image\x0aPrompt:\x20'+_0x4c87c0+_0x31a3b2(0x14b)+config[_0x31a3b2(0x15c)]},{'quoted':_0x28bef0});}catch(_0x1092a0){_0xf1978b(_0x31a3b2(0x16e)),console[_0x31a3b2(0x153)](_0x1092a0);}}),cmd({'pattern':_0x513e1a(0x154),'react':'👾','alias':[_0x513e1a(0x150),'bb','ai'],'desc':'Use\x20BlackBox\x20AI\x20to\x20get\x20a\x20response','category':'ai','use':_0x513e1a(0x163),'filename':__filename},async(_0x2d3c18,_0x132e01,_0xdc1a9e,{from:_0x3f7b52,reply:_0x5da35e,q:_0x34efe8})=>{const _0x56e73a=_0x513e1a;try{if(!_0x34efe8)return await _0x5da35e(queryMsg,'🧠');const _0x562934=await blackbox(_0x34efe8),_0x49d144=await fetchJson(_0x56e73a(0x15f)+_0x34efe8),_0x5428f7=_0x562934?_0x562934:_0x49d144?.[_0x56e73a(0x14f)];await _0x5da35e(_0x5428f7,'🧠');}catch(_0x122576){await _0x2d3c18[_0x56e73a(0x143)](_0x3f7b52,{'react':{'text':'❌','key':_0x132e01['key']}}),console[_0x56e73a(0x153)](_0x122576),await _0x5da35e(errorMsg);}});
+const config = require('../config')
+const os = require('os')
+const axios = require('axios');
+const mimeTypes = require("mime-types");
+const fs = require('fs');
+const path = require('path');
+const { generateForwardMessageContent, prepareWAMessageFromContent, generateWAMessageContent, generateWAMessageFromContent } = require('@whiskeysockets/baileys');
+const { cmd, commands } = require('../command')
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson} = require('../lib/functions')
+const GEMINI_API_KEY = "AIzaSyB8xtFPtvG_N9S7bBZZOSfTyZW8rQyJQkY";
+const { URL } = require('url');
+
+
+cmd({
+    pattern: "gemini",
+    react: "👾",
+    alias: ["geminiai", "geminichat", "ai2"],
+    desc: "Use Gemini AI to get a response",
+    category: "ai",
+    use: "gemini < query >",
+    filename: __filename
+},
+async (conn, mek, m, { from, args, reply, prefix }) => {
+    const userMessage = args.join(" ");
+    if (!userMessage) return await reply(noInputMsg, `\`${prefix}gemini your question\``);
+
+    try {
+        const res = await axios.post(
+            `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`,
+            {
+                contents: [{ parts: [{ text: userMessage }] }]
+            }
+        );
+
+        const aiResponse = res.data.candidates[0].content.parts[0].text.trim();
+        await reply(`${aiResponse}`);
+    } catch (error) {
+        console.error("Google Gemini API Error:", error.response?.data || error.message);
+        await reply("❌ *Error connecting to Gemini AI. Please try again later.*");
+    }
+});
+
+
+cmd({
+ pattern: "imagen",
+  alias: ["imggen", "dalle"],
+  react: "🎨",
+  desc: "Generate an AI image",
+  category: "ai",
+  filename: __filename
+}, async (conn, m, mek, { from, q, reply }) => {
+  try {
+    if (!q) return reply("❗ Please provide a prompt.\nExample: `.image A futuristic city`");
+
+    // Free image generation API (pollinations.ai)
+    const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(q)}`;
+
+    await conn.sendMessage(from, { image: { url: imageUrl }, caption: `🖼️ AI Generated Image\nPrompt: ${q}\n\n ${config.FOOTER}` }, { quoted: mek });
+  } catch (err) {
+    reply("⚠️ Image generation failed.");
+    console.error(err);
+  }
+});
+
+    cmd({
+        pattern: "blackbox",
+    react: "👾",
+    alias: ["bbox", "bb", "ai"],
+    desc: "Use BlackBox AI to get a response",
+    category: "ai",
+    use: "blackbox < query >",
+    filename: __filename
+},
+async (conn, mek, m, { from, reply, q }) => {
+    try {
+        if (!q) {
+            return await reply(queryMsg, '🧠');
+        }
+
+        const scraperData = await blackbox(q);
+        const apiData = await fetchJson("https://api.siputzx.my.id/api/ai/blackboxai-pro?content=" + q);
+        const result = scraperData ? scraperData : apiData?.data;
+        await reply(result, `🧠`);
+
+    } catch (e) {
+        await conn.sendMessage(from, { react: { text: '❌', key: mek.key } });
+        console.error(e);
+        await reply(errorMsg);
+    }
+});
+
+
+

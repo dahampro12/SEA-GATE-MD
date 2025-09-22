@@ -1,1 +1,1369 @@
-const _0x2214bd=_0x4641;(function(_0x196586,_0x4d1e8c){const _0x513ce3=_0x4641,_0x3d7072=_0x196586();while(!![]){try{const _0x2e629b=parseInt(_0x513ce3(0x2f3))/0x1+parseInt(_0x513ce3(0x261))/0x2*(-parseInt(_0x513ce3(0x222))/0x3)+-parseInt(_0x513ce3(0x3a2))/0x4*(parseInt(_0x513ce3(0x335))/0x5)+parseInt(_0x513ce3(0x2be))/0x6*(-parseInt(_0x513ce3(0x31c))/0x7)+-parseInt(_0x513ce3(0x293))/0x8*(parseInt(_0x513ce3(0x1e1))/0x9)+parseInt(_0x513ce3(0x34a))/0xa+-parseInt(_0x513ce3(0x3c1))/0xb*(-parseInt(_0x513ce3(0x362))/0xc);if(_0x2e629b===_0x4d1e8c)break;else _0x3d7072['push'](_0x3d7072['shift']());}catch(_0x541275){_0x3d7072['push'](_0x3d7072['shift']());}}}(_0x29db,0x2292b));function _0x29db(){const _0x588a1e=['../command','ttdl2','no_watermark','Audio','Download\x20Google\x20Drive\x20files','*`🔞\x20𝙎𝙀𝘼𝙂𝘼𝙏𝙀\x20𝙋𝙊𝙍𝙉𝙃𝙐𝘽\x20𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍\x20🔞`*\x0a\x0a*┌──────────────────*\x0a*├\x20`❄️\x20Title`\x20:*\x20','docdl240\x20','303842fwBryk','arraybuffer','get','map','BUTTON','https://fdown.net','videoFormats','`Video\x20type\x20📽️`','runtime','*❌\x20Please\x20enter\x20a\x20song\x20name\x20or\x20SoundCloud\x20URL!*','144p\x20quality\x20download','9LprVEL','downfb','*An\x20error\x20occurred\x20while\x20processing\x20your\x20request.*','alexa\x20','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)','*❌\x20Please\x20enter\x20a\x20valid\x20Facebook\x20URL!*','megadl','text/plain','views','test.mp3','🎵\x20*Now\x20Playing:*\x20','data','\x0a*└──────────────────*\x0a','.tiktok\x20<\x20tiktok\x20url\x20>','fromURL','videodl144\x20','ttdl3','docdl720','*⚠️\x20File\x20too\x20large\x20or\x20cannot\x20determine\x20size!*\x0a\x09\x09\x0a*📌\x20Maximum\x20allowed:\x20`','html5player.setThumbUrl\x5c(\x27(.*?)\x27\x5c);','downloadLink','pornhub.com\x20results','✅\x20Done!\x20Sent\x20','SEAGATE\x20MD','*An\x20error\x20occurred\x20while\x20downloading\x20the\x20video.*','statusText','Download\x20files\x20from\x20Mega.nz','application/x-7z-compressed','✅\x20*Facebook\x20video\x20downloaded\x20successfully!*','```1080p\x20Video```','g-i-s','audio/mpeg','_Normal\x20Type\x20🎑_','videos','\x0a*├\x20`🎃\x20Region`\x20:*\x20','result','darksadas-yt-pornhub-scrape','name','buffer','Send\x20as\x20audio\x20(music)','https://sadas-ytmp4-5.vercel.app/convert?link=','xnxx\x20download','load','*❌\x20ytsearch-venom\x20module\x20is\x20missing!*','\x20MB!','*⚠️\x20File\x20too\x20large\x20or\x20cannot\x20determine\x20size!*\x0a\x09\x20\x0a*📌\x20Maximum\x20allowed:\x20`','meta[property=\x22og:title\x22]','.jpeg','ttdl2\x20','react','img','div.thumb','videodl1080\x20','song2','.yts\x20<song\x20name\x20or\x20URL>','Tiktok\x20Video\x20Type\x20📽️','*╭─「\x20`සිංදු\x20පිස්සෝ`\x20」*\x0a*╰────────────┈*>\x0a*⏤͟͟͞͞★❬❬\x20🫟සිංදු\x20පිස්සෝ\x20😼🖤|🇱🇰\x20❭❭⏤͟͟͞͞★*\x0a*╭⃘⃝─────────────┈◦•☻•◦*\x0a*╎🍀\x20`Title:`\x20','mfdl','*_SOUNDCLOUD\x20SEARCH\x20RESULT\x20🎶_*\x0a\x0a*`Input\x20:`*\x20','https://fdown.net/','cover','open.spotify.com','Send\x20as\x20document\x20file','Audio\x20Type\x20🎶','download','3cqishu','docdl1080\x20','filename','false','.ai\x20<promt>','find','watermark','*\x0a*└─────────────────────┘*','*Reply\x20Below\x20Number\x20🔢*','content-type','⏳\x20*Downloading\x20from\x20Mega.nz...*\x0a\x0a📄\x20*File:*\x20','spad\x20','*❌\x20Invalid\x20Facebook\x20CDN\x20video\x20URL!*','Unexpected\x20error:','.video\x20lelena','*├\x20`🐼\x20Title:`*\x20Facebook\x20video\x0a','```144p\x20Document```','*_PORNHUB\x20SEARCH\x20RESULT\x20🔞_*\x0a\x0a*`Input\x20:`*\x20','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/65.0.3325.181\x20Safari/537.36','🎶\x20*SEAGATE\x20SONG\x20DOWNLOADER*\x20🎶\x0a\x0a┌────────────────────┐\x0a│\x20🎵\x20*Title:*\x20','⏳\x20*Downloading\x20Facebook\x20video...*','*\x0a*╎👁️‍🗨️\x20`Views:`\x20','Video\x20Type\x20📽️','HD\x20Quality','pornhub','headers','video_title','\x20songs.\x20Sending\x20the\x20first\x20now.\x20Others\x20will\x20follow\x20every\x2040\x20seconds.','\x20songs.','*⚠\x20File\x20too\x20large\x20or\x20cannot\x20determine\x20size!*','single_select','ytaap','*\x0a*╚─────────────❨⥁⚘*\x0a[🖤|❤️‍🔥|🖤|🤍|💚|🩵|💜|❤️💖]\x0a>\x20*🫟සිංදු\x20පිස්සෝ\x20😼🖤|🇱🇰*','docdl720\x20','*Audio\x20Format\x20🎶*','DriveWebUi','ytsearch-venom','Download\x20songs','ttdl1\x20','push','144p\x20Video','\x0a*├\x20`📅\x20Date`\x20:*\x20','imgdlm\x20','\x0a*├\x20`🔗\x20URL:`*\x20','text','sendMessage','⚠️\x20*File\x20too\x20large!*\x0a\x0a📁\x20*Size:*\x20','Error\x20occurred:','https://yt-five-tau.vercel.app/download?q=','❯❯\x20Choose\x20a\x20video\x20Format\x20❮❮','```360p\x20Document```','ytaap\x20','forEach','replace','googleimg','*_XNXX\x20SEARCH\x20RESULT\x20🔞_*\x0a\x0a*`Input\x20:`*\x20','❌\x20*Song\x20not\x20found\x20or\x20an\x20error\x20occurred.*','CKG1yQEIkbbJAQiitskBCMS2yQEIqZ3KAQioo8oBGLeYygE=','https://drive.google.com/uc?id=','downloadUrl','alexaa','html5player.setVideoHLS\x5c(\x27(.*?)\x27\x5c);','\x0a*├\x20`⏩\x20Type`\x20:*\x20','296806MfJCkH','alex','*❌\x20Failed\x20to\x20download.\x20The\x20video\x20might\x20be\x20geo-blocked\x20or\x20expired.*','*Please\x20give\x20me\x20instagram\x20url\x20!!*','https://images.weserv.nl/?url=','.song\x20lelena','*⚠️\x20Please\x20provide\x20a\x20Mega.nz\x20URL!*','Download\x20sd\x20quality','size','*`🪺\x20SEAGATE\x20TIKTOK\x20DOWNLODER\x20🪺`*\x0a\x0a*┌──────────────────*\x0a*├\x20`🎩\x20Title`\x20:*\x20','*Please\x20enter\x20a\x20query\x20or\x20a\x20url!*','Fetch\x20failed\x20with\x20status\x20','*⚠️\x20No\x20results\x20found!*','&format=mp4&audioBitrate=128&videoQuality=720&filenameStyle=pretty&vCodec=h264','Download\x20videos\x20from\x20Facebook','*├\x20`⏱️\x20Duration:`*\x20','*❌\x20Error\x20occurred\x20while\x20processing\x20your\x20request.*','imgdlm','`Document\x20type\x20📁`','🎥\x20Select\x20Option','Video\x20No\x20Watermark','*Please\x20provide\x20a\x20search\x20query!*','toLowerCase','Audio\x20Format','*_SPOTIFY\x20SEARCH\x20RESULT\x20🎶_*\x0a\x0a*`Input\x20:`*\x20','*\x0a*╎🔮\x20`Duration:`\x20','docdl1080','video_cover','❌\x20Facebook\x20video\x20download\x20error:','end','360p\x20quality\x20download','icon','attr','An\x20error\x20occurred\x20while\x20processing\x20your\x20request.\x20Please\x20try\x20again\x20later.','*\x0a*├\x20`📎\x20URL`\x20:\x20','node-fetch','automp3','ttdl','❌\x20Could\x20not\x20retrieve\x20the\x20song.\x20Please\x20check\x20your\x20query.','response','⚠️\x20Could\x20not\x20download\x20\x22','pop','application/vnd.android.package-archive','https','analyze_time','_Video\x20Watermark\x20📼_','https://i.imgur.com/qNQv8Ru.jpeg','videodl240\x20','link','files','2011712njtGaV','APK\x20CMD\x20ERROR:','360p\x20Document','\x0a\x0a_🎧\x20Powered\x20by\x20SEAGATE\x20Music_','ytad\x20','ytaa\x20','❌\x20*Error\x20occurred:*\x20','https://sadas-ytmp3-5.vercel.app/convert?link=','album','*\x0a*├\x20`⌛Duration`\x20:\x20','length','content-length','spotify\x20search','ERROR\x20!!','image/jpeg','meta[property=\x22og:video:width\x22]','xnxx\x20results','`🎧\x20🅂🄴🄰🄶🄰🅃🄴\x20🅂🄾🄽🄶\x20🄳🄾🅆🄽🄻🄾🄳🄴🅁\x20🎧`\x09\x0a*┌────────────────────┐*\x0a*├\x20`🎶\x20Title`\x20:\x20','high','findapk','Download\x20high-quality\x20songs\x20from\x20YouTube','https://phinfo.vercel.app/download?songId=','*`🗃️\x20SEAGATE\x20APK\x20DOWNLOADER\x20🗃️`*\x0a\x0a*┌──────────────────╮*\x0a*├\x20`📚\x20Name`\x20:*\x20','application/zip','ytsong','match','/THUMBNUM/','&format=mp4&audioBitrate=360&videoQuality=144&filenameStyle=pretty&vCodec=h264','❌\x20Error:\x20Could\x20not\x20process\x20the\x20request.','fileName','from','\x0a│\x20🔗\x20*URL:*\x20','```360p\x20Video```','ytsong2','soundcloud.com\x20results','../lib/apkdl','🔞\x20XNXX\x20Search\x20Results','Document\x20Type\x20📂','No\x20Watermark','all','No\x20images\x20found!','📤\x20Upload\x20try\x20','*├\x20`🔗\x20Url:`*\x20','6TBuJYB','type','package','valid_url','cheerio','xnxx','With\x20Watermark','meta[property=\x22og:image\x22]','&format=mp4&audioBitrate=128&videoQuality=1080&filenameStyle=pretty&vCodec=h264','video/mp4','imageURL','```240p\x20Document```','To\x20get\x20the\x20instragram.','*❌\x20No\x20downloadable\x20formats\x20found.\x20Try\x20another\x20video.*','Facebook\x20Video\x20Type\x20📽️','.mediafire\x20<\x20link\x20>','Please\x20provide\x20a\x20search\x20query!','*Uploading\x20request\x20..⬆️*','📽️','⚠️\x20Skipping\x20\x22','random','📦\x20API\x20DATA:','tiktok','html5player.setThumbSlide\x5c(\x27(.*?)\x27\x5c);','slice','.mp3','https://darksadasyt-spotify-search.vercel.app/search?query=','song','https://darksadasyt-soundcloud-dl.vercel.app/api/fetch-track?q=','Search\x20for\x20images\x20on\x20Google','log','each','`*\x0a\x0a_*💡\x20You\x20can\x20try\x20a\x20smaller\x20file\x20or\x20use\x20.apply\x20command\x20to\x20override.*_','\x0a*└──────────────────*','application/x-rar-compressed','Song\x20formats\x20list','*🗃️\x20SEAGATE\x20GDRIVE\x20DOWNLOADER\x20🗃️*\x0a\x0a*┌──────────────────*\x0a*├\x20🗃️\x20Name\x20:*\x20','ytaa','lastup','key','docdl240','content','Download\x20hd\x20quality','application/pdf','https://darksadasyt-igdl.vercel.app/api/download?q=','video','thumbnailUrl','\x22\x20—\x20file\x20size\x20','docdl144\x20','reply','https://mfire-dl.vercel.app/mfire?url=','floor','.spotify\x20lelena','65635BwjaGp','&apikey=fg_NHnzSf6e','API\x20request\x20failed:','search','split','*⚠️\x20Failed\x20to\x20fetch\x20data\x20from\x20Facebook\x20API.*','ruhend-scraper','🎶\x20Search\x20complete.\x20Found\x20','*Need\x20a\x20YouTube\x20URL!*','\x0a│\x20⏱️\x20*Duration:*\x20','*Document\x20Format\x20📂*','message','spa','releaseDate','ID\x20Not\x20Found','fileType','120363422174267666@newsletter','videodl360\x20','MAX_SIZE','240p\x20quality\x20download','```720p\x20Video```','Normal\x20Type','Document\x20Type\x20📁','.ig\x20<\x20Link\x20>','sounddl','url','\x0a*├\x20`💽\x20Album:`*\x20','\x0a*└──────────────────╯*','.apk','*This\x20command\x20currently\x20only\x20works\x20for\x20the\x20Bot\x20owner.\x20To\x20disable\x20it\x20for\x20others,\x20use\x20the\x20.settings\x20command\x20👨‍🔧.*','https://ph-slow-dl.vercel.app/api/analyze?q=','listMessage','docdl360\x20','❌\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.\x20Please\x20try\x20again\x20later.','```720p\x20Document```','❌\x20MP3\x20fetch/send\x20failed:\x20','❌\x20Error\x20sending\x20thumbnail:','destroy','gdrive','720p\x20quality\x20download','xnxxdl','920983HsuGRL','.mp4','*🗃️\x20Enter\x20apk\x20name...*','Please\x20Give\x20Me\x20a\x20vaild\x20Link...','❌\x20ERROR\x20while\x20downloading\x20APK!','*❌\x20Error\x20occurred\x20while\x20processing\x20your\x20request!*','title','true','date','_Audio\x20🎶_','\x20MB\x0a📌\x20*Limit:*\x20','🛑\x20Error\x20in\x20automp3\x20command:','mimetype','json','#video-player-bg\x20>\x20script:nth-child(6)','*`🎼\x20🅂🄴🄰🄶🄰🅃🄴\x20🅂🄿🄾🅃🄸🄵🅈\x20🄳🄾🅆🄽🄻🄾🄰🄳🄴🅁\x20🎼`*\x0a*┌──────────────────╮*\x0a*├\x20`🎶\x20Title:`*\x20','🚫\x20All\x20retries\x20failed\x20for\x20URL:\x20','googledrive','thumbnail','music','file_size_url','\x0a│\x20👁️\x20*Views:*\x20','Document\x20Type','❌\x20Unexpected\x20Error:','*⚠\x20File\x20too\x20large!*\x0a\x0a*📌\x20Maximum\x20allowed:\x20','10eCjzWR','*📹\x20🅂🄴🄰🄶🄰🅃🄴\x20🅅🄸🄳🄴🄾\x20🄳🄾🅆🄽🄻🄾🄰🄳🄴🅁\x20📹*\x0a*┌─────────────────────┐*\x0a*├\x20`📹\x20Title`\x20:\x20','*⚠️\x20Please\x20provide\x20a\x20search\x20term\x20or\x20URL!*','⏳\x20Waiting\x2040\x20seconds\x20for\x20the\x20next\x20song...','_This\x20file\x20size\x20is\x20too\x20big_','tiktokdl','application/x-www-form-urlencoded;charset=UTF-8','*\x0a*├\x20`⌛\x20Duration`\x20:\x20','ytvideo','```240p\x20Video```','downfb\x20','ttdl3\x20','html','*❌\x20Failed\x20to\x20fetch\x20file\x20from\x20Google\x20Drive!*','too\x20large','meganz','\x0a*├\x20`🔗\x20Url`\x20:*\x20','*\x0a*├\x20`🐼\x20Views`\x20:\x20','loadAttributes','🚩\x20*Error\x20!!*','.imgsearch\x20<query>','1941940EfaPAn','duration','\x20MB\x0a📌\x20Maximum\x20allowed:\x20','Link\x20Download\x20Limit!','resize','\x20failed','https://api.fgmods.xyz/api/search/soundcloud?text=','status','dlxnxx','html5player.setThumbSlideBig\x5c(\x27(.*?)\x27\x5c);','LOGO','parse','html5player.setVideoUrlLow\x5c(\x27(.*?)\x27\x5c);','xnxxdown\x20','imgdld\x20','phdl\x20','videodl1080','🚩\x20*Please\x20give\x20me\x20words\x20to\x20search*','buttonMessage','*🔥\x20Enter\x20mediafire\x20link...*','ttdl4','\x0a*├\x20`📦\x20Package`\x20:*\x20','240p\x20Document','human-readable','288ysMIbQ','*`🔥\x20𝙎𝙀𝘼𝙂𝘼𝙏𝙀\x20𝙈𝙀𝘿𝙄𝘼𝙁𝙄𝙍𝙀\x20𝘿𝙊𝙒𝙉𝙇𝙊𝘿𝙀𝙍\x20🔥`*\x0a\x0a*┌──────────────────╮*\x0a*├\x20`🔥\x20Name`\x20:*\x20','yts','*Need\x20a\x20youtube\x20url!*','❌\x20No\x20songs\x20found.','`🏮\x20SEAGATE\x20FB\x20DOWNLOADER\x20🏮`\x0a\x0a','*Error\x20!!*','Video\x20quality\x20list','🔍\x20Search\x20Results','\x20MB','.gdrive\x20<Google\x20Drive\x20link>','*/*','toFixed','format','phinfo\x20','&authuser=0&export=download','&format=mp4&audioBitrate=128&videoQuality=240&filenameStyle=pretty&vCodec=h264','megajs','gzip,\x20deflate,\x20br','meta[property=\x22og:duration\x22]','*`🎼\x20SEAGATE\x20SOUNDCLOUD\x20DOWNLOADER\x20🎼`*\x0a\x0a*🎶\x20Title:*\x20','Download\x20tiktok\x20videos','❯❯\x20Choose\x20a\x20video\x20quality\x20❮❮','identity','.song\x20<query>','catch','🗃️','phdl','XNXX_BLOCK','\x0a*├\x20📁\x20Size\x20:*\x20','&format=mp4&audioBitrate=240&videoQuality=144&filenameStyle=pretty&vCodec=h264','toBuffer','resolution','Download\x20videoss','JEDEC','144p\x20Document','SD\x20Quality','regions','ytsearch','&format=mp4&audioBitrate=128&videoQuality=360&filenameStyle=pretty&vCodec=h264','href','File\x20exceeds\x20','stringify','❌\x20The\x20song\x20download\x20server\x20is\x20currently\x20unavailable\x20or\x20returned\x20an\x20error\x20(500).\x20Please\x20try\x20again\x20later.','sadaslk-dlcore','spotify','Error\x20in\x20ytaa\x20command:','artist','head','*\x0a🔗\x20','*❌\x20Unexpected\x20error\x20occurred!*','application/octet-stream','directmp3','then','includes','spa\x20','\x0a*├\x20`⏱️\x20Time`\x20:*\x20','fileSize','Send\x20as\x20voice\x20message','Error\x20!!\x0a\x0a*','playstore','soundcloud','FOOTER','error','499420APBGgO','720p\x20Document','.xnxx\x20new','*❌\x20Error\x20while\x20searching\x20YouTube!*','1080p\x20quality\x20download','dllink','*└──────────────────*','*You\x20must\x20provide\x20a\x20YouTube\x20URL!*','.song2\x20<query/url>','startsWith','../lib/functions','Audio\x20Formats\x20🎶','videodl360','meta[property=\x22og:video:type\x22]','Search\x20songs\x20on\x20YouTube','div.mozaique','\x0a*├\x20`📁\x20Size`\x20:*\x20','Document\x20Format','*⚠️\x20File\x20too\x20large!*\x0a\x0a📂\x20Size:\x20','span.metadata','Downloaded\x20Video','docdl360','&format=mp4&audioBitrate=128&videoQuality=144&filenameStyle=pretty&vCodec=h264','axios'];_0x29db=function(){return _0x588a1e;};return _0x29db();}const config=require('../config'),axios=require(_0x2214bd(0x3b9)),fs=require('fs'),file_size_url=(..._0x234037)=>import(_0x2214bd(0x330))[_0x2214bd(0x397)](({default:_0x5a64ab})=>_0x5a64ab(..._0x234037)),cheerio=require(_0x2214bd(0x2c2)),{phsearch,phdl}=require(_0x2214bd(0x205)),{File}=require(_0x2214bd(0x373)),{igdl}=require(_0x2214bd(0x2f9)),{sizeFormatter}=require(_0x2214bd(0x361));;const {ytmp3,tiktok,facebook,instagram,twitter,ytmp4}=require(_0x2214bd(0x38e)),{getBuffer,getGroupAdmins,getRandom,getsize,h2k,isUrl,Json,runtime,sleep,fetchJson}=require(_0x2214bd(0x3ac)),{search,download}=require(_0x2214bd(0x2b6)),{cmd,commands}=require(_0x2214bd(0x3ba)),{getFbVideoInfo}=require('fb-downloader-scrapper'),https=require(_0x2214bd(0x28c));let wm=config['FOOTER'],newsize=config[_0x2214bd(0x305)]*0x400*0x400;var sizetoo=_0x2214bd(0x339);const yts=require('ytsearch-venom'),g_i_s=require(_0x2214bd(0x1ff)),fetch=(..._0x1fcfe6)=>import(_0x2214bd(0x284))[_0x2214bd(0x397)](({default:_0x9a4f9d})=>_0x9a4f9d(..._0x1fcfe6)),sharp=require('sharp');async function resizeImage(_0x2c7fd1,_0x58f530,_0x4ba74f){const _0x505baf=_0x2214bd;try{return await sharp(_0x2c7fd1)[_0x505baf(0x34e)](_0x58f530,_0x4ba74f)[_0x505baf(0x381)]();}catch(_0x143fba){return console[_0x505baf(0x3a1)]('Error\x20resizing\x20image:',_0x143fba),_0x2c7fd1;}}async function GDriveDl(_0x332298){const _0x5c77a9=_0x2214bd;let _0x40c1e9,_0x450330={'error':!![]};if(!(_0x332298&&_0x332298[_0x5c77a9(0x2ac)](/drive\.google/i)))return _0x450330;const _0x47372f=sizeFormatter({'std':_0x5c77a9(0x384),'decimalPlaces':0x2,'keepTrailingZeroes':![],'render':(_0x4051fa,_0x2159dd)=>_0x4051fa+'\x20'+_0x2159dd+'B'});try{_0x40c1e9=(_0x332298[_0x5c77a9(0x2ac)](/\/?id=(.+)/i)||_0x332298[_0x5c77a9(0x2ac)](/\/d\/(.*?)\//))[0x1];if(!_0x40c1e9)throw _0x5c77a9(0x301);_0x450330=await fetch(_0x5c77a9(0x25c)+_0x40c1e9+_0x5c77a9(0x371),{'method':'post','headers':{'accept-encoding':_0x5c77a9(0x374),'content-length':0x0,'Content-Type':_0x5c77a9(0x33b),'origin':'https://drive.google.com','user-agent':_0x5c77a9(0x234),'x-client-data':_0x5c77a9(0x25b),'x-drive-first-party':_0x5c77a9(0x245),'x-json-requested':_0x5c77a9(0x323)}});let {fileName:_0x5a324c,sizeBytes:_0x46a2eb,downloadUrl:_0x423b31}=JSON[_0x5c77a9(0x355)]((await _0x450330['text']())[_0x5c77a9(0x2d6)](0x4));if(!_0x423b31)throw _0x5c77a9(0x34d);let _0x4cdd8b=await fetch(_0x423b31);if(_0x4cdd8b[_0x5c77a9(0x351)]!==0xc8)return _0x4cdd8b[_0x5c77a9(0x1fa)];return{'downloadUrl':_0x423b31,'fileName':_0x5a324c,'fileSize':_0x47372f(_0x46a2eb),'mimetype':_0x4cdd8b[_0x5c77a9(0x23b)][_0x5c77a9(0x1d8)](_0x5c77a9(0x22b))};}catch(_0x3b0186){return console[_0x5c77a9(0x2dc)](_0x3b0186),_0x450330;}}async function checkFileSize(_0x1dccf9,_0x50dbb7=0x96){return new Promise((_0x1dce14,_0x158c8c)=>{const _0x4e3cdf=_0x4641;let _0x21f311=0x0;https['get'](_0x1dccf9,_0x339ebb=>{const _0x1b57ca=_0x4641;_0x339ebb['on'](_0x1b57ca(0x1ec),_0x27c77f=>{const _0x5bb3e4=_0x1b57ca;_0x21f311+=_0x27c77f[_0x5bb3e4(0x29d)];const _0x40727a=_0x21f311/(0x400*0x400);_0x40727a>_0x50dbb7&&(_0x339ebb[_0x5bb3e4(0x318)](),_0x158c8c(new Error(_0x5bb3e4(0x38b)+_0x50dbb7+_0x5bb3e4(0x20d))));}),_0x339ebb['on'](_0x1b57ca(0x27e),()=>_0x1dce14(_0x21f311)),_0x339ebb['on'](_0x1b57ca(0x3a1),_0x32b3b3=>_0x158c8c(_0x32b3b3));})['on'](_0x4e3cdf(0x3a1),_0x4ce977=>_0x158c8c(_0x4ce977));});}cmd({'pattern':_0x2214bd(0x319),'alias':[_0x2214bd(0x32d),'gd'],'react':_0x2214bd(0x37c),'desc':_0x2214bd(0x3be),'category':_0x2214bd(0x221),'use':_0x2214bd(0x36c),'filename':__filename},async(_0x32dfb4,_0x1adbf2,_0x526838,{from:_0xcb4f5a,q:_0x530dba,reply:_0x33886c,l:_0x3cbd92})=>{const _0x35b9b1=_0x2214bd;try{if(!_0x530dba)return await _0x33886c('*⚠️\x20Please\x20provide\x20a\x20Google\x20Drive\x20URL!*');let _0x455d12;try{_0x455d12=await GDriveDl(_0x530dba);}catch(_0x430587){return _0x3cbd92(_0x430587),await _0x33886c(_0x35b9b1(0x342));}let _0x15b9f3=_0x35b9b1(0x2e2)+_0x455d12[_0x35b9b1(0x2b0)]+'\x0a*├\x20⏩\x20Type\x20:*\x20'+_0x455d12[_0x35b9b1(0x328)]+_0x35b9b1(0x37f)+_0x455d12[_0x35b9b1(0x39b)]+'\x0a*└──────────────────*';await _0x33886c(_0x15b9f3);try{const _0x22efdf=await checkFileSize(_0x455d12[_0x35b9b1(0x25d)],config['MAX_SIZE']),_0x344158=(_0x22efdf/(0x400*0x400))[_0x35b9b1(0x36e)](0x2);if(_0x344158>config[_0x35b9b1(0x305)])return _0x33886c(_0x35b9b1(0x1f3)+config[_0x35b9b1(0x305)]+_0x35b9b1(0x2de));}catch(_0xede5fa){return _0x33886c('*⚠️\x20File\x20too\x20large\x20or\x20cannot\x20determine\x20size!*\x0a\x09\x20\x0a*📌\x20Maximum\x20allowed:\x20`'+config['MAX_SIZE']+_0x35b9b1(0x2de));}await _0x32dfb4['sendMessage'](_0xcb4f5a,{'document':{'url':_0x455d12[_0x35b9b1(0x25d)]},'caption':''+config[_0x35b9b1(0x3a0)],'fileName':_0x455d12[_0x35b9b1(0x2b0)],'mimetype':_0x455d12[_0x35b9b1(0x328)]},{'quoted':_0x1adbf2});}catch(_0x4a6481){console[_0x35b9b1(0x2dc)](_0x4a6481),await _0x33886c(_0x35b9b1(0x321));}});async function streamToBuffer(_0x1f6923){return new Promise((_0x5de470,_0x25fd35)=>{const _0x4bcd3b=_0x4641,_0x3d8e19=[];_0x1f6923['on']('data',_0x186249=>_0x3d8e19['push'](_0x186249)),_0x1f6923['on']('end',()=>_0x5de470(Buffer['concat'](_0x3d8e19))),_0x1f6923['on'](_0x4bcd3b(0x3a1),_0x25fd35);});}cmd({'pattern':'mega','react':'🍟','alias':[_0x2214bd(0x1e7),_0x2214bd(0x344)],'desc':_0x2214bd(0x1fb),'category':_0x2214bd(0x221),'use':'.mega\x20<mega.nz\x20URL>','filename':__filename},async(_0x897b80,_0x1d2067,_0x10182,{from:_0x470712,q:_0x45da3e,reply:_0x416e83})=>{const _0x5cb337=_0x2214bd;try{if(!_0x45da3e)return await _0x416e83(_0x5cb337(0x267));const _0x29d1f7=File[_0x5cb337(0x1ef)](_0x45da3e);await _0x29d1f7[_0x5cb337(0x347)]();const _0x10e758=(_0x29d1f7['size']/(0x400*0x400))['toFixed'](0x2);if(_0x29d1f7[_0x5cb337(0x269)]>config[_0x5cb337(0x305)]*0x400*0x400)return _0x416e83(_0x5cb337(0x250)+_0x10e758+_0x5cb337(0x326)+config['MAX_SIZE']+_0x5cb337(0x36b));await _0x416e83(_0x5cb337(0x22c)+_0x29d1f7[_0x5cb337(0x206)]+'\x0a📁\x20*Size:*\x20'+_0x10e758+_0x5cb337(0x36b));const _0x18b2ce=await streamToBuffer(_0x29d1f7[_0x5cb337(0x221)]()),_0x260b4f=_0x29d1f7[_0x5cb337(0x206)][_0x5cb337(0x2f7)]('.')[_0x5cb337(0x28a)]()[_0x5cb337(0x277)](),_0x19e2dd={'mp4':_0x5cb337(0x2c7),'pdf':_0x5cb337(0x2e9),'zip':_0x5cb337(0x2aa),'rar':_0x5cb337(0x2e0),'7z':_0x5cb337(0x1fc),'jpg':'image/jpeg','jpeg':_0x5cb337(0x2a1),'png':'image/png','mp3':'audio/mpeg','txt':_0x5cb337(0x1e8)},_0x2e7fe9=_0x19e2dd[_0x260b4f]||_0x5cb337(0x395);await _0x897b80[_0x5cb337(0x24f)](_0x470712,{'document':_0x18b2ce,'caption':''+config[_0x5cb337(0x3a0)],'mimetype':_0x2e7fe9,'fileName':_0x29d1f7['name']},{'quoted':_0x1d2067}),await _0x897b80['sendMessage'](_0x470712,{'react':{'text':'✔️','key':_0x1d2067['key']}});}catch(_0x1d09db){console[_0x5cb337(0x3a1)](_0x1d09db),await _0x416e83(_0x5cb337(0x299)+(_0x1d09db[_0x5cb337(0x2fe)]||_0x1d09db));}});function ytreg(_0x390a57){const _0x261c15=/(?:http(?:s|):\/\/|)(?:(?:www\.|)youtube(?:\-nocookie|)\.com\/(?:watch\?.*(?:|\&)v=|embed|shorts\/|v\/)|youtu\.be\/)([-_0-9A-Za-z]{11})/;return _0x261c15['test'](_0x390a57);}cmd({'pattern':_0x2214bd(0x364),'alias':[_0x2214bd(0x388)],'use':_0x2214bd(0x217),'react':'🔎','desc':_0x2214bd(0x3b0),'category':_0x2214bd(0x2f6),'filename':__filename},async(_0x341c0e,_0x561bf2,_0x46a85a,{from:_0x36f6a7,q:_0x291df6,reply:_0x347011,isCmd:_0x17ee72,command:_0xee2d68,l:_0x58d264})=>{const _0x51c9ab=_0x2214bd;try{if(!_0x291df6)return await _0x347011(_0x51c9ab(0x337));if(isUrl(_0x291df6)&&!ytreg(_0x291df6))return await _0x347011('*⚠️\x20Invalid\x20YouTube\x20URL!*');let _0x232930;try{_0x232930=require(_0x51c9ab(0x246));}catch(_0x59a731){return _0x58d264(_0x59a731),await _0x347011(_0x51c9ab(0x20c));}let _0x3ef86c;try{_0x3ef86c=await _0x232930(_0x291df6);}catch(_0x22023e){return _0x58d264(_0x22023e),await _0x347011(_0x51c9ab(0x3a5));}if(!_0x3ef86c[_0x51c9ab(0x2ba)]||_0x3ef86c[_0x51c9ab(0x2ba)][_0x51c9ab(0x29d)]===0x0)return await _0x347011(_0x51c9ab(0x26d));let _0x243203='';_0x3ef86c[_0x51c9ab(0x2ba)]['map']((_0x3a7923,_0x448989)=>{const _0x16a366=_0x51c9ab;_0x243203+='*'+(_0x448989+0x1)+'.\x20'+_0x3a7923['title']+_0x16a366(0x393)+_0x3a7923['url']+'\x0a\x0a';}),await _0x341c0e[_0x51c9ab(0x24f)](_0x36f6a7,{'text':_0x243203},{'quoted':_0x561bf2});}catch(_0x3303f7){_0x58d264(_0x3303f7),await _0x347011(_0x51c9ab(0x394));}}),cmd({'pattern':_0x2214bd(0x2d9),'alias':[_0x2214bd(0x2ab)],'use':'.song\x20<query\x20or\x20url>','react':'🎧','desc':_0x2214bd(0x2a7),'category':'Download','filename':__filename},async(_0x5da1f3,_0x40cfd8,_0x3d07d5,{from:_0x177f9c,prefix:_0x52e8a3,q:_0x780684,reply:_0x474d7f})=>{const _0x4a2e2c=_0x2214bd;try{if(!_0x780684)return await _0x474d7f('🔎\x20*Please\x20provide\x20a\x20song\x20name\x20or\x20YouTube\x20link!*');const _0x398fa2=_0x780684['replace'](/\?si=[^&]*/,''),_0x414fa2=await yts(_0x398fa2),_0x162ae3=_0x414fa2[_0x4a2e2c(0x202)][0x0],_0x29fdbf=config['FOOTER'];let _0x5ce5f3=_0x4a2e2c(0x2a4)+_0x162ae3['title']+_0x4a2e2c(0x346)+_0x162ae3[_0x4a2e2c(0x1e9)]+_0x4a2e2c(0x33c)+_0x162ae3[_0x4a2e2c(0x34b)]+_0x4a2e2c(0x283)+_0x162ae3[_0x4a2e2c(0x30c)]+'*\x0a*└────────────────────┘*';const _0x584fdf=[{'buttonId':_0x52e8a3+_0x4a2e2c(0x298)+_0x162ae3['url'],'buttonText':{'displayText':_0x4a2e2c(0x244)},'type':0x1},{'buttonId':_0x52e8a3+_0x4a2e2c(0x297)+_0x162ae3['url']+'&'+_0x162ae3[_0x4a2e2c(0x32e)]+'&'+_0x162ae3[_0x4a2e2c(0x322)],'buttonText':{'displayText':_0x4a2e2c(0x2fd)},'type':0x1},{'buttonId':_0x52e8a3+_0x4a2e2c(0x255)+_0x162ae3[_0x4a2e2c(0x30c)],'buttonText':{'displayText':'*Voice\x20Format\x20🎤*'},'type':0x1}],_0x528d31={'image':{'url':_0x162ae3['thumbnail']},'caption':_0x5ce5f3,'footer':_0x29fdbf,'buttons':_0x584fdf,'headerType':0x4},_0x171c39={'title':'🎵\x20Choose\x20an\x20audio\x20format','sections':[{'title':_0x4a2e2c(0x3ad),'rows':[{'title':_0x4a2e2c(0x278),'description':_0x4a2e2c(0x208),'id':_0x52e8a3+_0x4a2e2c(0x298)+_0x162ae3[_0x4a2e2c(0x30c)]},{'title':_0x4a2e2c(0x3b3),'description':_0x4a2e2c(0x21f),'id':_0x52e8a3+'ytad\x20'+_0x162ae3[_0x4a2e2c(0x30c)]+'&'+_0x162ae3['thumbnail']+'&'+_0x162ae3[_0x4a2e2c(0x322)]},{'title':'Voice\x20Note','description':_0x4a2e2c(0x39c),'id':_0x52e8a3+_0x4a2e2c(0x255)+_0x162ae3['url']}]}]};if(config[_0x4a2e2c(0x1da)]===_0x4a2e2c(0x323))return await _0x5da1f3['sendMessage'](_0x177f9c,{'image':{'url':_0x162ae3[_0x4a2e2c(0x32e)]},'caption':_0x5ce5f3,'footer':config[_0x4a2e2c(0x3a0)],'buttons':[{'buttonId':_0x4a2e2c(0x2e1),'buttonText':{'displayText':_0x4a2e2c(0x274)},'type':0x4,'nativeFlowInfo':{'name':_0x4a2e2c(0x240),'paramsJson':JSON[_0x4a2e2c(0x38c)](_0x171c39)}}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x40cfd8});else config[_0x4a2e2c(0x1da)]===_0x4a2e2c(0x225)&&await _0x5da1f3['buttonMessage'](_0x177f9c,_0x528d31,_0x40cfd8);}catch(_0x980aa){console[_0x4a2e2c(0x3a1)](_0x980aa),_0x474d7f(_0x4a2e2c(0x25a));}}),cmd({'pattern':_0x2214bd(0x216),'alias':[_0x2214bd(0x2b4)],'use':_0x2214bd(0x3aa),'react':'🎧','desc':'Download\x20songs','category':_0x2214bd(0x221),'filename':__filename},async(_0x4af530,_0x24f50e,_0x3ec0f7,{from:_0x9b6c79,prefix:_0x16aaae,quoted:_0x422688,body:_0x1989b6,isCmd:_0x4397f3,command:_0x27b524,args:_0x189687,q:_0x1a07a9,isGroup:_0x41a15b,sender:_0x2a6ced,senderNumber:_0x479a7a,botNumber2:_0x2e6a4f,botNumber:_0x40ae65,pushname:_0x366dbc,isMe:_0x1164af,isOwner:_0x3d73f8,groupMetadata:_0x191777,groupName:_0x321664,participants:_0x460760,groupAdmins:_0x1c9066,isBotAdmins:_0x6d5620,isAdmins:_0xf29785,reply:_0x24e62d})=>{const _0x3b4b88=_0x2214bd;try{if(!_0x1a07a9)return await _0x24e62d('*Please\x20enter\x20a\x20query\x20or\x20a\x20URL!*');const _0x543c9f=_0x1a07a9[_0x3b4b88(0x257)](/\?si=[^&]*/,''),_0x32e8cb=await yts(_0x543c9f),_0x3b809e=_0x32e8cb[_0x3b4b88(0x202)][0x0],_0x1a4f08=config[_0x3b4b88(0x3a0)];let _0x547e05=_0x3b4b88(0x235)+_0x3b809e[_0x3b4b88(0x322)]+_0x3b4b88(0x331)+_0x3b809e[_0x3b4b88(0x1e9)]+_0x3b4b88(0x2fc)+_0x3b809e[_0x3b4b88(0x34b)]+_0x3b4b88(0x2b2)+_0x3b809e[_0x3b4b88(0x30c)]+'\x0a└────────────────────┘';await _0x4af530[_0x3b4b88(0x24f)](_0x9b6c79,{'image':{'url':_0x3b809e[_0x3b4b88(0x32e)]},'caption':_0x547e05});const _0x13f4d6=await fetchJson('https://sadas-ytmp3-5.vercel.app/convert?link='+_0x3b809e[_0x3b4b88(0x30c)]),_0x546abf=_0x13f4d6?.[_0x3b4b88(0x30c)];if(!_0x546abf)return await _0x24e62d('*Failed\x20to\x20get\x20audio\x20link.*');try{const _0x569dfd=await checkFileSize(_0x546abf,config[_0x3b4b88(0x305)]),_0x3f8143=(_0x569dfd/(0x400*0x400))[_0x3b4b88(0x36e)](0x2);if(_0x3f8143>config['MAX_SIZE'])return _0x24e62d('*⚠️\x20File\x20too\x20large\x20or\x20cannot\x20determine\x20size!*\x0a\x09\x09\x0a*📌\x20Maximum\x20allowed:\x20`'+config[_0x3b4b88(0x305)]+_0x3b4b88(0x2de));}catch(_0x57eeef){return _0x24e62d(_0x3b4b88(0x20e)+config[_0x3b4b88(0x305)]+_0x3b4b88(0x2de));}await _0x4af530[_0x3b4b88(0x24f)](_0x9b6c79,{'audio':{'url':_0x546abf},'mimetype':'audio/mpeg'},{'quoted':_0x24f50e});const _0x3dd78f=await fetch(_0x3b809e[_0x3b4b88(0x32e)]),_0x2c3325=await _0x3dd78f[_0x3b4b88(0x207)](),_0x571b69=await resizeImage(_0x2c3325,0xc8,0xc8);await _0x4af530[_0x3b4b88(0x24f)](_0x9b6c79,{'document':{'url':_0x546abf},'jpegThumbnail':_0x571b69,'caption':_0x1a4f08,'mimetype':_0x3b4b88(0x200),'fileName':_0x3b809e['title']+_0x3b4b88(0x2d7)},{'quoted':_0x24f50e});}catch(_0x44a071){console[_0x3b4b88(0x3a1)](_0x44a071),await _0x24e62d(_0x3b4b88(0x2af));}}),cmd({'pattern':_0x2214bd(0x2e3),'react':'⬇','dontAddCommandList':!![],'filename':__filename},async(_0x3ab8ab,_0x25e827,_0xd01784,{from:_0x9ef3d1,q:_0x15eaad,reply:_0x4072c0})=>{const _0x359387=_0x2214bd;if(!_0x15eaad)return _0x4072c0('Need\x20a\x20YouTube\x20URL!');try{const _0x378eaf=await fetchJson('https://sadas-ytmp3-new-2.vercel.app/convert-youtube?url='+_0x15eaad);if(!_0x378eaf||!_0x378eaf[_0x359387(0x30c)])return _0x4072c0('Conversion\x20failed,\x20try\x20again!');const _0x2bf906=await checkFileSize(_0x378eaf[_0x359387(0x30c)],config[_0x359387(0x305)]);if(!_0x2bf906)return _0x4072c0(_0x359387(0x23f));const _0x1a4712=(_0x2bf906/(0x400*0x400))[_0x359387(0x36e)](0x2);if(_0x1a4712>config[_0x359387(0x305)])return _0x4072c0(_0x359387(0x334)+config[_0x359387(0x305)]+'\x20MB*');await _0x3ab8ab[_0x359387(0x24f)](_0x9ef3d1,{'react':{'text':'⬆','key':_0x25e827[_0x359387(0x2e5)]}}),await _0x3ab8ab['sendMessage'](_0x9ef3d1,{'audio':{'url':_0x378eaf['url']},'mimetype':_0x359387(0x200)},{'quoted':_0x25e827}),await _0x3ab8ab[_0x359387(0x24f)](_0x9ef3d1,{'react':{'text':'✔','key':_0x25e827['key']}});}catch(_0x51b249){if(_0x51b249[_0x359387(0x2fe)][_0x359387(0x398)](_0x359387(0x343)))return _0x4072c0(_0x359387(0x334)+config['MAX_SIZE']+'\x20MB*');return console['error'](_0x359387(0x390),_0x51b249),_0x4072c0(N_FOUND);}}),cmd({'pattern':_0x2214bd(0x241),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0xcaca5d,_0xbe080f,_0x162d9b,{from:_0x30ecdb,q:_0x2f05c7,reply:_0x2363ae})=>{const _0x390979=_0x2214bd;if(!_0x2f05c7)return await _0x2363ae(_0x390979(0x365));try{const _0x131b5a=await ytmp3(_0x2f05c7);await _0xcaca5d[_0x390979(0x24f)](_0x30ecdb,{'react':{'text':'⬆️','key':_0xbe080f[_0x390979(0x2e5)]}}),await _0xcaca5d['sendMessage'](_0x30ecdb,{'audio':{'url':_0x131b5a[_0x390979(0x30c)]},'mimetype':_0x390979(0x200),'ptt':!![]},{'quoted':_0xbe080f}),await _0xcaca5d[_0x390979(0x24f)](_0x30ecdb,{'react':{'text':'✔️','key':_0xbe080f[_0x390979(0x2e5)]}});}catch(_0x357a0c){_0x2363ae(N_FOUND),console[_0x390979(0x2dc)](_0x357a0c);}}),cmd({'pattern':_0x2214bd(0x262),'alias':['ytsong'],'use':_0x2214bd(0x266),'react':'🎧','desc':_0x2214bd(0x247),'dontAddCommandList':!![],'filename':__filename},async(_0x1ff937,_0x1a797e,_0x2670dd,{from:_0x4a8cd6,prefix:_0x9789e4,l:_0x41ede4,quoted:_0x52223c,body:_0x47a568,isCmd:_0x5bbf49,isAlex:_0x39a157,command:_0x5869ea,args:_0x4d6bf8,q:_0xb8b721,isGroup:_0x3ea5dc,sender:_0x5924f8,senderNumber:_0x1cbc10,botNumber2:_0xdad799,botNumber:_0x2b72c1,pushname:_0x533f0f,isMe:_0x5e74ad,isOwner:_0x4a5c2b,groupMetadata:_0x5da8af,groupName:_0x1a558c,participants:_0x23ed22,groupAdmins:_0x116987,isBotAdmins:_0x1ef0a5,isAdmins:_0x2c5729,reply:_0x893e2f})=>{const _0x3a0a01=_0x2214bd;try{if(!_0xb8b721)return await _0x893e2f(_0x3a0a01(0x26b));const _0xaafd34=_0xb8b721[_0x3a0a01(0x257)](/\?si=[^&]*/,'');var _0x6648b2=await yts(_0xaafd34);let _0x45ca4c=config['FOOTER'];var _0x4cacd3=_0x6648b2[_0x3a0a01(0x202)][0x0];let _0x560e5e=_0x3a0a01(0x219)+_0x4cacd3[_0x3a0a01(0x322)]+_0x3a0a01(0x237)+_0x4cacd3['views']+'*\x0a*╎🔮\x20`Duration:`\x20'+_0x4cacd3[_0x3a0a01(0x34b)]+_0x3a0a01(0x242);const _0x27ec25=[{'buttonId':_0x9789e4+'alexaa\x20'+_0x4cacd3[_0x3a0a01(0x30c)],'buttonText':{'displayText':'Send\x20info\x20🎶'},'type':0x1},{'buttonId':_0x9789e4+_0x3a0a01(0x1e4)+_0x4cacd3[_0x3a0a01(0x30c)],'buttonText':{'displayText':'Audio\x20Type\x20🎶'},'type':0x1}],_0x22360d={'image':{'url':_0x4cacd3[_0x3a0a01(0x32e)]},'caption':_0x560e5e,'footer':_0x45ca4c,'buttons':_0x27ec25,'headerType':0x4};await _0x1ff937[_0x3a0a01(0x35c)](_0x4a8cd6,_0x22360d,_0x1a797e);}catch(_0x991d73){_0x893e2f(N_FOUND),console[_0x3a0a01(0x2dc)](_0x991d73);}}),cmd({'pattern':_0x2214bd(0x25e),'react':'🔮','dontAddCommandList':!![],'filename':__filename},async(_0x5955f0,_0x573213,_0x1ed1df,{from:_0x1dfc21,q:_0x302857,reply:_0x46ddf3})=>{const _0x21a5c6=_0x2214bd;if(!_0x302857)return await _0x46ddf3('*Need\x20a\x20youtube\x20url!*');try{if(!_0x302857)return await _0x46ddf3(_0x21a5c6(0x26b));const _0x144ea7=_0x302857[_0x21a5c6(0x257)](/\?si=[^&]*/,'');var _0x4928f2=await yts(_0x144ea7);let _0x3336bf=config['FOOTER'];var _0x54c585=_0x4928f2[_0x21a5c6(0x202)][0x0];let _0x53f59d=_0x21a5c6(0x219)+_0x54c585[_0x21a5c6(0x322)]+_0x21a5c6(0x237)+_0x54c585[_0x21a5c6(0x1e9)]+_0x21a5c6(0x27a)+_0x54c585[_0x21a5c6(0x34b)]+_0x21a5c6(0x242);await _0x5955f0[_0x21a5c6(0x24f)]('120363422174267666@newsletter',{'image':{'url':_0x54c585[_0x21a5c6(0x32e)]},'caption':_0x53f59d}),await _0x5955f0[_0x21a5c6(0x24f)](_0x1dfc21,{'react':{'text':'✔️','key':_0x573213['key']}});}catch(_0x28730b){_0x46ddf3(N_FOUND),console[_0x21a5c6(0x2dc)](_0x28730b);}}),cmd({'pattern':'alexa','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x31db21,_0x4600c0,_0x5a2ce1,{from:_0x4b200d,q:_0x53f529,reply:_0x140fa6})=>{const _0x5c6534=_0x2214bd;if(!_0x53f529)return await _0x140fa6(_0x5c6534(0x365));try{const _0x16df6b=await fetchJson(_0x5c6534(0x29a)+_0x53f529);await _0x31db21['sendMessage'](_0x4b200d,{'react':{'text':'⬆️','key':_0x4600c0[_0x5c6534(0x2e5)]}}),await _0x31db21[_0x5c6534(0x24f)](_0x5c6534(0x303),{'audio':{'url':_0x16df6b[_0x5c6534(0x30c)]},'mimetype':'audio/mpeg','ptt':!![]},{'quoted':_0x4600c0}),await _0x31db21[_0x5c6534(0x24f)](_0x4b200d,{'react':{'text':'✔️','key':_0x4600c0[_0x5c6534(0x2e5)]}});}catch(_0x4e3cca){_0x140fa6(N_FOUND),console[_0x5c6534(0x2dc)](_0x4e3cca);}}),cmd({'pattern':'ytad','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x21176d,_0x2dbb09,_0x111e82,{from:_0x315679,q:_0x7aef66,reply:_0x48c0ad})=>{const _0x5d8c58=_0x2214bd;try{if(!_0x7aef66)return await _0x48c0ad(_0x5d8c58(0x2fb));const _0x17f9a1=_0x7aef66['split']('&')[0x0],_0x19bd53=_0x7aef66[_0x5d8c58(0x2f7)]('&')[0x1],_0x29174d=_0x7aef66[_0x5d8c58(0x2f7)]('&')[0x2],_0x5ea7cf=await fetch(_0x19bd53),_0x1b5e95=await _0x5ea7cf['buffer'](),_0x33473b=await fetchJson(_0x5d8c58(0x29a)+_0x17f9a1);if(!_0x33473b||!_0x33473b[_0x5d8c58(0x30c)])return await _0x48c0ad('*Conversion\x20failed,\x20try\x20again!*');const _0x177bf9=await file_size_url(_0x33473b['url']),_0x311321=(_0x177bf9/(0x400*0x400))[_0x5d8c58(0x36e)](0x2);if(_0x311321>config[_0x5d8c58(0x305)])return await _0x48c0ad(_0x5d8c58(0x3b4)+_0x311321+_0x5d8c58(0x34c)+config[_0x5d8c58(0x305)]+_0x5d8c58(0x36b));await _0x21176d[_0x5d8c58(0x24f)](_0x315679,{'react':{'text':'⬆️','key':_0x2dbb09[_0x5d8c58(0x2e5)]}}),await _0x21176d[_0x5d8c58(0x24f)](_0x315679,{'document':{'url':_0x33473b['url']},'jpegThumbnail':_0x1b5e95,'mimetype':_0x5d8c58(0x200),'caption':wm||config[_0x5d8c58(0x3a0)],'fileName':_0x29174d+_0x5d8c58(0x2d7)},{'quoted':_0x2dbb09}),await _0x21176d[_0x5d8c58(0x24f)](_0x315679,{'react':{'text':'✔️','key':_0x2dbb09[_0x5d8c58(0x2e5)]}});}catch(_0x151906){console['log'](_0x151906),await _0x48c0ad(_0x5d8c58(0x271));}}),cmd({'pattern':_0x2214bd(0x396),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0xeafa1e,_0x542806,_0x3071e3,{from:_0x460f51,q:_0x436942,reply:_0x26aacd})=>{const _0x32854c=_0x2214bd;try{if(!_0x436942)return await _0x26aacd(_0x32854c(0x365));await _0xeafa1e[_0x32854c(0x24f)](_0x460f51,{'react':{'text':'⬆️','key':_0x542806[_0x32854c(0x2e5)]}});const _0x24fa16=await _0xeafa1e['sendMessage'](_0x460f51,{'text':_0x32854c(0x2cf)},{'quoted':_0x542806});await _0xeafa1e[_0x32854c(0x24f)](_0x460f51,{'audio':{'url':_0x436942},'caption':config['FOOTER'],'mimetype':'audio/mpeg','caption':wm,'fileName':_0x32854c(0x1ea)}),await _0xeafa1e[_0x32854c(0x24f)](_0x460f51,{'delete':_0x24fa16[_0x32854c(0x2e5)]}),await _0xeafa1e[_0x32854c(0x24f)](_0x460f51,{'react':{'text':'✔️','key':_0x542806[_0x32854c(0x2e5)]}});}catch(_0xcb4999){console[_0x32854c(0x2dc)](_0xcb4999);}}),cmd({'pattern':'tiktok','alias':['tt',_0x2214bd(0x286),_0x2214bd(0x33a)],'react':'🎩','desc':_0x2214bd(0x377),'category':_0x2214bd(0x221),'use':_0x2214bd(0x1ee),'filename':__filename},async(_0x568a3b,_0x2ccc2e,_0x1c05ec,{from:_0x267c61,l:_0x54e074,prefix:_0x8a6616,quoted:_0x439a9d,body:_0x1edb8d,isCmd:_0xcb9b4b,command:_0x1c0832,args:_0x155171,q:_0xc849ca,isGroup:_0x470ffa,sender:_0x1e05eb,senderNumber:_0x1d1ae4,botNumber2:_0x9011a2,botNumber:_0x8892fb,pushname:_0x47967a,isMe:_0xbb1044,isOwner:_0x24265b,groupMetadata:_0x5c7704,groupName:_0x334f00,participants:_0x2273a3,groupAdmins:_0xac6090,isBotAdmins:_0x36ba76,isAdmins:_0x2f33fb,reply:_0x363028})=>{const _0x9adbc=_0x2214bd;try{if(!_0xc849ca)return await _0x363028('TEXT');if(!_0xc849ca[_0x9adbc(0x398)](_0x9adbc(0x2d4)))return await _0x363028(_0x9adbc(0x2c1));const _0x593eb1=await fetchJson('https://darksadasyt-tiktokdl.vercel.app/api/tiktok?q='+_0xc849ca);let _0x235e45=_0x9adbc(0x26a)+_0x593eb1[_0x9adbc(0x322)]+_0x9adbc(0x203)+_0x593eb1[_0x9adbc(0x387)]+'\x0a*├\x20`⏰\x20Duration`\x20:*\x20'+_0x593eb1[_0x9adbc(0x1de)]+_0x9adbc(0x345)+_0xc849ca+_0x9adbc(0x1ed);const _0x5a26b1=[{'buttonId':_0x8a6616+_0x9adbc(0x248)+_0x593eb1[_0x9adbc(0x3bc)],'buttonText':{'displayText':'_Video\x20No\x20Watermark\x20📼_'},'type':0x1},{'buttonId':_0x8a6616+_0x9adbc(0x211)+_0x593eb1[_0x9adbc(0x228)],'buttonText':{'displayText':_0x9adbc(0x28e)},'type':0x1},{'buttonId':_0x8a6616+_0x9adbc(0x340)+_0x593eb1[_0x9adbc(0x32f)],'buttonText':{'displayText':_0x9adbc(0x325)},'type':0x1}],_0x2ec9ee={'image':{'url':_0x593eb1[_0x9adbc(0x32e)]},'caption':_0x235e45,'footer':config[_0x9adbc(0x3a0)],'buttons':_0x5a26b1,'headerType':0x4},_0x5df249={'title':'❯❯\x20Choose\x20a\x20video\x20Format\x20❮❮','sections':[{'title':_0x9adbc(0x218),'rows':[{'title':_0x9adbc(0x275),'description':_0x9adbc(0x2b9),'id':_0x8a6616+_0x9adbc(0x248)+_0x593eb1[_0x9adbc(0x3bc)]},{'title':'Video\x20Watermark','description':_0x9adbc(0x2c4),'id':_0x8a6616+_0x9adbc(0x211)+_0x593eb1[_0x9adbc(0x228)]},{'title':_0x9adbc(0x3bd),'description':'Only\x20Mp3','id':_0x8a6616+'ttdl3\x20'+_0x593eb1[_0x9adbc(0x32f)]}]}]};if(config['BUTTON']===_0x9adbc(0x323))return await _0x568a3b['sendMessage'](_0x267c61,{'image':{'url':_0x593eb1['thumbnail']},'caption':_0x235e45,'footer':config[_0x9adbc(0x3a0)],'buttons':[{'buttonId':_0x9adbc(0x369),'buttonText':{'displayText':'🎥\x20Select\x20Option'},'type':0x4,'nativeFlowInfo':{'name':_0x9adbc(0x240),'paramsJson':JSON[_0x9adbc(0x38c)](_0x5df249)}}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x2ccc2e});else config[_0x9adbc(0x1da)]===_0x9adbc(0x225)&&await _0x568a3b[_0x9adbc(0x35c)](_0x267c61,_0x2ec9ee,_0x2ccc2e);}catch(_0x5df3d5){_0x363028(_0x9adbc(0x39d)+_0x5df3d5+'*'),console['log'](_0x5df3d5);}}),cmd({'pattern':'ttdl1','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x47a1cf,_0x1c6502,_0x53e1ab,{from:_0x3c4d39,l:_0x545983,quoted:_0x3b0173,body:_0x1f90e8,isCmd:_0x3f390c,command:_0x23c5d4,args:_0x172a74,q:_0x40146f,isGroup:_0x9c34ca,sender:_0x9f60fb,senderNumber:_0x3fd4ef,botNumber2:_0x33ed83,botNumber:_0x4c1781,pushname:_0x6614cf,isMe:_0x1a76a8,isOwner:_0x2f82fc,groupMetadata:_0x1922ba,groupName:_0x52516f,participants:_0x133e0a,groupAdmins:_0x5110b1,isBotAdmins:_0x6b8b0,isAdmins:_0x43b255,reply:_0x41ea09})=>{const _0x23756a=_0x2214bd;try{await _0x47a1cf[_0x23756a(0x24f)](_0x3c4d39,{'react':{'text':'⬆️','key':_0x1c6502[_0x23756a(0x2e5)]}}),_0x47a1cf[_0x23756a(0x24f)](_0x3c4d39,{'video':{'url':_0x40146f},'mimetype':_0x23756a(0x2c7),'caption':''+config[_0x23756a(0x3a0)]},{'quoted':_0x1c6502}),await _0x47a1cf[_0x23756a(0x24f)](_0x3c4d39,{'react':{'text':'✔️','key':_0x1c6502[_0x23756a(0x2e5)]}});}catch(_0x4ca5d8){console['log'](_0x4ca5d8),_0x41ea09(_0x23756a(0x39d)+_0x4ca5d8+'*');}}),cmd({'pattern':_0x2214bd(0x3bb),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x19ef3a,_0x48cc95,_0x2c08bd,{from:_0x14d530,l:_0x32fb1d,quoted:_0x1e22c9,body:_0x39ff66,isCmd:_0x465751,command:_0xbf3a8,args:_0x535f81,q:_0x538c9a,isGroup:_0x58bf98,sender:_0x39c576,senderNumber:_0x3a370a,botNumber2:_0x296b95,botNumber:_0x2f3237,pushname:_0x26b52c,isMe:_0x590dc4,isOwner:_0x5c296d,groupMetadata:_0x1b69b1,groupName:_0x2b92ae,participants:_0x4d9502,groupAdmins:_0xcfc8e5,isBotAdmins:_0x272821,isAdmins:_0x3e5d87,reply:_0x2d0725})=>{const _0x1411a8=_0x2214bd;try{await _0x19ef3a[_0x1411a8(0x24f)](_0x14d530,{'react':{'text':'⬆️','key':_0x48cc95[_0x1411a8(0x2e5)]}}),_0x19ef3a[_0x1411a8(0x24f)](_0x14d530,{'video':{'url':_0x538c9a},'mimetype':_0x1411a8(0x2c7),'caption':''+config[_0x1411a8(0x3a0)]},{'quoted':_0x48cc95}),await _0x19ef3a[_0x1411a8(0x24f)](_0x14d530,{'react':{'text':'✔️','key':_0x48cc95['key']}});}catch(_0x5ccb87){console[_0x1411a8(0x2dc)](_0x5ccb87),_0x2d0725(_0x1411a8(0x39d)+_0x5ccb87+'*');}}),cmd({'pattern':_0x2214bd(0x1f1),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0xafbd07,_0xc5e504,_0x4582ba,{from:_0xdb97e0,l:_0x182831,quoted:_0x292df5,body:_0x1f9bdc,isCmd:_0x53d60d,command:_0x1194cc,args:_0x394d7c,q:_0x535dc8,isGroup:_0x26c1b7,sender:_0x20bb9a,senderNumber:_0x1c9698,botNumber2:_0x5587c6,botNumber:_0x51bae4,pushname:_0x1f8617,isMe:_0x104d20,isOwner:_0x4b5384,groupMetadata:_0x18ca61,groupName:_0xe4e236,participants:_0x2a585b,groupAdmins:_0x1687d0,isBotAdmins:_0x5f0ff2,isAdmins:_0x41f8fc,reply:_0x4df80d})=>{const _0x868096=_0x2214bd;try{await _0xafbd07[_0x868096(0x24f)](_0xdb97e0,{'react':{'text':'⬆️','key':_0xc5e504['key']}}),_0xafbd07[_0x868096(0x24f)](_0xdb97e0,{'audio':{'url':_0x535dc8},'mimetype':_0x868096(0x200),'caption':''+config[_0x868096(0x3a0)]},{'quoted':_0xc5e504}),await _0xafbd07['sendMessage'](_0xdb97e0,{'react':{'text':'✔️','key':_0xc5e504[_0x868096(0x2e5)]}});}catch(_0x408650){console[_0x868096(0x2dc)](_0x408650),_0x4df80d('Error\x20!!\x0a\x0a*'+_0x408650+'*');}}),cmd({'pattern':_0x2214bd(0x35e),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x76bab6,_0x229a7d,_0x326ba4,{from:_0x222783,l:_0x4fd876,quoted:_0x194197,body:_0x5b91e2,isCmd:_0x57296f,command:_0x4c2e95,args:_0x2b8fee,q:_0x56bc19,isGroup:_0x33ce0f,sender:_0x3e137b,senderNumber:_0x58105a,botNumber2:_0x558dcf,botNumber:_0x513cfd,pushname:_0x5a27d9,isMe:_0x31f346,isOwner:_0x4c82eb,groupMetadata:_0x3329fa,groupName:_0x540a54,participants:_0xb05f08,groupAdmins:_0x18740c,isBotAdmins:_0x1251ca,isAdmins:_0x27c399,reply:_0x5d1693})=>{const _0x347140=_0x2214bd;try{await _0x76bab6[_0x347140(0x24f)](_0x222783,{'react':{'text':'⬆️','key':_0x229a7d[_0x347140(0x2e5)]}}),_0x76bab6['sendMessage'](_0x222783,{'audio':{'url':_0x56bc19},'mimetype':_0x347140(0x200),'caption':''+config[_0x347140(0x3a0)]},{'quoted':_0x229a7d}),await _0x76bab6['sendMessage'](_0x222783,{'react':{'text':'✔️','key':_0x229a7d[_0x347140(0x2e5)]}});}catch(_0x55c326){console['log'](_0x55c326),_0x5d1693(_0x347140(0x39d)+_0x55c326+'*');}}),cmd({'pattern':'ai','react':'🎃','use':_0x2214bd(0x226),'category':'ai','filename':__filename},async(_0x2f3f05,_0x1d5d22,_0x3c0a83,{from:_0x1b3f89,q:_0x28c6ce,reply:_0x22013})=>{const _0x1cc717=_0x2214bd;if(!_0x28c6ce)return await _0x22013(_0x1cc717(0x365));try{const _0xe8f9ac=await fetchJson('https://darksadas-ytmp3.vercel.app/chat?q='+_0x28c6ce);_0x22013(''+_0xe8f9ac);}catch(_0x8ec030){_0x22013(N_FOUND),console[_0x1cc717(0x2dc)](_0x8ec030);}}),cmd({'pattern':'fb','alias':['facebook'],'use':'.fb\x20<facebook\x20url>','react':'🏮','desc':_0x2214bd(0x26f),'category':_0x2214bd(0x221),'filename':__filename},async(_0x286f70,_0x1ca073,_0x27a189,{from:_0x1100f2,prefix:_0x569c4a,q:_0x100ef6,reply:_0xf05fd5})=>{const _0x5b9493=_0x2214bd;try{if(!_0x100ef6||!_0x100ef6['includes']('facebook.com'))return await _0xf05fd5(_0x5b9493(0x1e6));const _0x1c4a38='https://darksadasyt-fbdl.vercel.app/api/fb-download?q='+encodeURIComponent(_0x100ef6);console[_0x5b9493(0x2dc)]('🌐\x20FB\x20API\x20URL:',_0x1c4a38);let _0x252a1b;try{const _0x99f78a=await axios['get'](_0x1c4a38);_0x252a1b=_0x99f78a[_0x5b9493(0x1ec)],console[_0x5b9493(0x2dc)](_0x5b9493(0x2d3),JSON[_0x5b9493(0x38c)](_0x252a1b,null,0x2));}catch(_0x4c8a7c){return console['error']('❌\x20AXIOS\x20ERROR:',_0x4c8a7c[_0x5b9493(0x288)]?.[_0x5b9493(0x1ec)]||_0x4c8a7c['message']),_0xf05fd5(_0x5b9493(0x2f8));}if(!_0x252a1b?.[_0x5b9493(0x204)]?.[_0x5b9493(0x1dc)]||_0x252a1b[_0x5b9493(0x204)][_0x5b9493(0x1dc)][_0x5b9493(0x29d)]===0x0)return _0xf05fd5(_0x5b9493(0x2cb));const _0x1e9f1c=_0x252a1b[_0x5b9493(0x204)][_0x5b9493(0x1dc)];let _0x41543e=_0x252a1b['result'][_0x5b9493(0x2ec)];!_0x41543e||!_0x41543e[_0x5b9493(0x3ab)]('http')?_0x41543e=_0x5b9493(0x28f):_0x41543e=_0x5b9493(0x265)+encodeURIComponent(_0x41543e[_0x5b9493(0x257)](/^https?:\/\//,''));const _0x174220=_0x252a1b[_0x5b9493(0x204)][_0x5b9493(0x34b)]||'Unknown',_0x3f3bec=_0x5b9493(0x367)+'*┌──────────────────*\x0a'+_0x5b9493(0x231)+(_0x5b9493(0x270)+_0x174220+'\x0a')+(_0x5b9493(0x2bd)+_0x100ef6+'\x0a')+_0x5b9493(0x3a8),_0x315fff=[];_0x1e9f1c[0x0]?.['url']&&_0x315fff['push']({'buttonId':_0x569c4a+_0x5b9493(0x33f)+_0x1e9f1c[0x0][_0x5b9493(0x30c)],'buttonText':{'displayText':_0x5b9493(0x239)},'type':0x1});_0x1e9f1c[0x1]?.[_0x5b9493(0x30c)]&&_0x315fff[_0x5b9493(0x249)]({'buttonId':_0x569c4a+_0x5b9493(0x33f)+_0x1e9f1c[0x1][_0x5b9493(0x30c)],'buttonText':{'displayText':_0x5b9493(0x386)},'type':0x1});if(_0x315fff['length']===0x0)return _0xf05fd5('*❌\x20No\x20video\x20formats\x20found.*');const _0x5e6033={'image':{'url':_0x41543e},'caption':_0x3f3bec,'footer':config[_0x5b9493(0x3a0)],'buttons':_0x315fff,'headerType':0x4},_0x189ee0={'title':_0x5b9493(0x253),'sections':[{'title':_0x5b9493(0x2cc),'rows':[{'title':_0x5b9493(0x386),'description':_0x5b9493(0x268),'id':_0x569c4a+_0x5b9493(0x33f)+_0x1e9f1c[0x1][_0x5b9493(0x30c)]},{'title':_0x5b9493(0x239),'description':_0x5b9493(0x2e8),'id':_0x569c4a+_0x5b9493(0x33f)+_0x1e9f1c[0x0][_0x5b9493(0x30c)]}]}]};if(config[_0x5b9493(0x1da)]==='true')return await _0x286f70[_0x5b9493(0x24f)](_0x1100f2,{'image':{'url':_0x41543e},'caption':_0x3f3bec,'footer':config[_0x5b9493(0x3a0)],'buttons':[{'buttonId':_0x5b9493(0x369),'buttonText':{'displayText':_0x5b9493(0x274)},'type':0x4,'nativeFlowInfo':{'name':_0x5b9493(0x240),'paramsJson':JSON[_0x5b9493(0x38c)](_0x189ee0)}}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x27a189});else config['BUTTON']===_0x5b9493(0x225)&&await _0x286f70[_0x5b9493(0x35c)](_0x1100f2,_0x5e6033,_0x27a189);}catch(_0x4b7e9b){return console[_0x5b9493(0x3a1)](_0x5b9493(0x333),_0x4b7e9b),_0xf05fd5('*⚠️\x20An\x20unexpected\x20error\x20occurred.\x20Try\x20again\x20later.*');}}),cmd({'pattern':_0x2214bd(0x1e2),'react':'🎥','dontAddCommandList':!![],'filename':__filename},async(_0x58cbbd,_0xbf33a0,_0x52bef9,{from:_0x861221,q:_0x5beca9,reply:_0x30acc0})=>{const _0x27b395=_0x2214bd;try{if(!_0x5beca9||!_0x5beca9['includes']('fbcdn'))return await _0x30acc0(_0x27b395(0x22e));_0x30acc0(_0x27b395(0x236));const _0x43c738=await axios[_0x27b395(0x1d8)](_0x5beca9,{'responseType':_0x27b395(0x1d7),'headers':{'User-Agent':_0x27b395(0x1e5),'Accept':_0x27b395(0x36d),'Accept-Encoding':_0x27b395(0x379),'Referer':_0x27b395(0x21c),'Origin':_0x27b395(0x1db)}}),_0x657017=Buffer[_0x27b395(0x2b1)](_0x43c738[_0x27b395(0x1ec)],'binary');await _0x58cbbd[_0x27b395(0x24f)](_0x861221,{'video':_0x657017,'mimetype':'video/mp4','caption':_0x27b395(0x1fd)},{'quoted':_0xbf33a0}),await _0x58cbbd['sendMessage'](_0x861221,{'react':{'text':'✔️','key':_0xbf33a0['key']}});}catch(_0x561f8e){console[_0x27b395(0x2dc)](_0x27b395(0x27d),_0x561f8e),_0x30acc0(_0x27b395(0x263));}}),cmd({'pattern':_0x2214bd(0x213),'alias':[_0x2214bd(0x258)],'desc':_0x2214bd(0x2db),'category':_0x2214bd(0x221),'use':_0x2214bd(0x349),'filename':__filename},async(_0x35c0e7,_0x8a9ca5,_0xb35d61,{from:_0x25a721,l:_0xc5cce2,quoted:_0x9c5e95,body:_0x5e2c2e,isCmd:_0x4f4490,command:_0x19b8ce,args:_0x5e178f,q:_0x47a834,isGroup:_0x4e26bd,prefix:_0x122e60,sender:_0x2b96a2,senderNumber:_0x47239e,botNumber2:_0x57bd29,botNumber:_0x201677,pushname:_0x390b2e,isMe:_0x32abfc,isOwner:_0x369ce5,groupMetadata:_0x29c123,groupName:_0x590725,participants:_0x556139,groupAdmins:_0x24eebf,isBotAdmins:_0x1b58b5,isAdmins:_0x87e261,reply:_0x367b63})=>{const _0x45b881=_0x2214bd;try{if(!_0x47a834)return _0x367b63(_0x45b881(0x276));var _0x5c06de=[];_0x5c06de[_0x45b881(0x249)]({'buttonId':_0x122e60+'imgdlm\x20'+_0x47a834,'buttonText':{'displayText':_0x45b881(0x201)},'type':0x1},{'buttonId':_0x122e60+'imgdld\x20'+_0x47a834,'buttonText':{'displayText':'_Document\x20Type\x20🎑_'},'type':0x1});const _0x4c1c2f='*🦊\x20Choose\x20Image\x20Download\x20Type..*',_0x2a1d9a={'caption':_0x4c1c2f,'footer':config[_0x45b881(0x3a0)],'buttons':_0x5c06de,'headerType':0x1};if(config[_0x45b881(0x1da)]===_0x45b881(0x323))_0x35c0e7['sendMessage'](_0x25a721,{'text':_0x4c1c2f,'footer':config[_0x45b881(0x3a0)],'buttons':[{'buttonId':_0x122e60+_0x45b881(0x24c)+_0x47a834,'buttonText':{'displayText':_0x45b881(0x308)},'type':0x1},{'buttonId':_0x122e60+_0x45b881(0x358)+_0x47a834,'buttonText':{'displayText':_0x45b881(0x332)},'type':0x1}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x8a9ca5});else{if(config[_0x45b881(0x1da)]===_0x45b881(0x225))return await _0x35c0e7[_0x45b881(0x35c)](_0x25a721,_0x2a1d9a,_0x8a9ca5);}}catch(_0x199ea6){_0x367b63('🚫\x20*Error\x20Accurated\x20!!*\x0a\x0a'+_0x199ea6),console[_0x45b881(0x2dc)](_0x199ea6);}}),cmd({'pattern':_0x2214bd(0x272),'react':'🌅','use':_0x2214bd(0x349),'filename':__filename},async(_0x3199c1,_0x39c2e3,_0x30989f,{from:_0x3cfb76,reply:_0x3f2ceb,q:_0x281b62})=>{const _0x3477d4=_0x2214bd;try{if(!_0x281b62)return await _0x3f2ceb(_0x3477d4(0x2ce));g_i_s(_0x281b62,(_0x2d5d3b,_0x4b789a)=>{const _0x1907b7=_0x3477d4;if(_0x2d5d3b||!_0x4b789a[_0x1907b7(0x29d)])return _0x3f2ceb(_0x1907b7(0x2bb));const _0x3d5ab9=_0x4b789a[_0x1907b7(0x2d6)](0x0,0x5)[_0x1907b7(0x1d9)](_0x111ea8=>_0x111ea8[_0x1907b7(0x30c)]);_0x3d5ab9[_0x1907b7(0x256)](async _0x4d1159=>{const _0x1a3778=_0x1907b7;await _0x3199c1[_0x1a3778(0x24f)](_0x3cfb76,{'image':{'url':_0x4d1159},'caption':config[_0x1a3778(0x3a0)]},{'quoted':_0x39c2e3});});});}catch(_0x430fc8){console[_0x3477d4(0x3a1)](_0x430fc8),_0x3f2ceb(_0x3477d4(0x282));}}),cmd({'pattern':'imgdld','react':'🌅','use':_0x2214bd(0x349),'filename':__filename},async(_0x45ed53,_0x30be69,_0x4187de,{from:_0xca4d94,reply:_0x394b65,q:_0x42f455})=>{const _0x50680f=_0x2214bd;try{if(!_0x42f455)return await _0x394b65(_0x50680f(0x2ce));g_i_s(_0x42f455,(_0x40ccb7,_0x3b6bc6)=>{const _0x399d14=_0x50680f;if(_0x40ccb7||!_0x3b6bc6[_0x399d14(0x29d)])return _0x394b65(_0x399d14(0x2bb));const _0x56e8a4=_0x3b6bc6[_0x399d14(0x2d6)](0x0,0x5)[_0x399d14(0x1d9)](_0x3db6a3=>_0x3db6a3['url']);_0x56e8a4[_0x399d14(0x256)](async _0x551fc0=>{const _0x5f2061=_0x399d14;await _0x45ed53[_0x5f2061(0x24f)](_0xca4d94,{'document':{'url':_0x551fc0},'caption':config[_0x5f2061(0x3a0)],'mimetype':'image/jpeg','fileName':_0x42f455+_0x5f2061(0x210)});});});}catch(_0x1cd9bf){console[_0x50680f(0x3a1)](_0x1cd9bf),_0x394b65(_0x50680f(0x282));}}),cmd({'pattern':'ig','desc':_0x2214bd(0x2ca),'react':'🎀','use':_0x2214bd(0x30a),'category':_0x2214bd(0x221),'filename':__filename},async(_0x51f04e,_0x27e25a,_0x223904,{from:_0x1d5d8d,quoted:_0x34b39f,body:_0x5e75ab,isCmd:_0x3fc310,command:_0x510ad2,args:_0x2ed684,q:_0x109b92,isGroup:_0x500ff0,sender:_0xf7dee2,senderNumber:_0x5744eb,botNumber2:_0x4cb5d0,botNumber:_0x1c4c50,pushname:_0x478a23,isMe:_0x35e0bf,isOwner:_0x29899b,groupMetadata:_0x106613,groupName:_0x916a7c,participants:_0x4da132,groupAdmins:_0x587c59,isBotAdmins:_0x531328,isAdmins:_0xb1939e,reply:_0x58cc79})=>{const _0x516ea9=_0x2214bd;try{if(!_0x109b92)return _0x223904[_0x516ea9(0x2ef)](_0x516ea9(0x31f));_0x223904['react']('⬇️');let _0x5f4a51=await fetchJson(_0x516ea9(0x2ea)+_0x109b92);_0x223904[_0x516ea9(0x212)]('⬆️'),await _0x51f04e[_0x516ea9(0x24f)](_0x1d5d8d,{'video':{'url':_0x5f4a51[_0x516ea9(0x204)][_0x516ea9(0x1ec)][0x0][_0x516ea9(0x25d)]},'mimetype':_0x516ea9(0x2c7),'caption':config[_0x516ea9(0x3a0)]},{'quoted':_0x27e25a}),_0x223904[_0x516ea9(0x212)]('✔️');}catch(_0x56ba96){console['log'](_0x56ba96);}}),cmd({'pattern':'twitter','alias':['tw'],'desc':_0x2214bd(0x2ca),'react':'❄️','use':'.twitter\x20<\x20Link\x20>','category':_0x2214bd(0x221),'filename':__filename},async(_0x56fcbd,_0x32ac6b,_0x178a8e,{from:_0x16309d,quoted:_0x4b09b6,body:_0x44cd32,isCmd:_0x1cc498,command:_0x36f79e,args:_0x2d5bbe,q:_0x24a243,isGroup:_0x429943,sender:_0x3e2c18,senderNumber:_0x177ca3,botNumber2:_0x50597d,botNumber:_0x2d05d0,pushname:_0x327ca2,isMe:_0x3ef825,isOwner:_0x226278,groupMetadata:_0x34094a,groupName:_0x36bd62,participants:_0x115a15,groupAdmins:_0x2a8745,isBotAdmins:_0x300e46,isAdmins:_0x244234,reply:_0x749bd4})=>{const _0x1d70f7=_0x2214bd;try{if(!_0x24a243)return _0x178a8e[_0x1d70f7(0x2ef)](_0x1d70f7(0x31f));_0x178a8e['react']('⬇️');let _0x37af3c=await fetchJson('https://darksadasyt-twiterdl.vercel.app/api/download?url='+_0x24a243);_0x178a8e[_0x1d70f7(0x212)]('⬆️'),await _0x56fcbd[_0x1d70f7(0x24f)](_0x16309d,{'video':{'url':_0x37af3c[_0x1d70f7(0x202)][0x0][_0x1d70f7(0x30c)]},'mimetype':_0x1d70f7(0x2c7),'caption':config[_0x1d70f7(0x3a0)]},{'quoted':_0x32ac6b}),_0x178a8e[_0x1d70f7(0x212)]('✔️');}catch(_0x64307d){console[_0x1d70f7(0x2dc)](_0x64307d);}}),cmd({'pattern':'apk','react':_0x2214bd(0x37c),'alias':[_0x2214bd(0x2a6),_0x2214bd(0x39e)],'category':'download','use':'.apk\x20whatsapp','filename':__filename},async(_0x3afdbf,_0x282379,_0x10e686,{from:_0x1f4411,q:_0x53f6b2,reply:_0x3819a2})=>{const _0x5657e3=_0x2214bd;try{await _0x3afdbf[_0x5657e3(0x24f)](_0x1f4411,{'react':{'text':'⬇️','key':_0x282379['key']}});if(!_0x53f6b2)return _0x3819a2(_0x5657e3(0x31e));const _0x434daf=await download(_0x53f6b2);if(!_0x434daf||!_0x434daf['dllink'])return _0x3819a2('❌\x20APK\x20not\x20found!');let _0x3b559b=_0x5657e3(0x2a9)+_0x434daf['name']+_0x5657e3(0x35f)+_0x434daf[_0x5657e3(0x2c0)]+'\x0a*├\x20`⬆️\x20Last\x20update`\x20:*\x20'+_0x434daf[_0x5657e3(0x2e4)]+'\x0a*├\x20`📥\x20Size`\x20:*\x20'+_0x434daf[_0x5657e3(0x269)]+'\x0a*└──────────────────╯*\x0a\x0a'+config[_0x5657e3(0x3a0)];await _0x3afdbf[_0x5657e3(0x24f)](_0x1f4411,{'image':{'url':_0x434daf[_0x5657e3(0x280)]},'caption':_0x3b559b},{'quoted':_0x282379});let _0x4f636e=await _0x3afdbf[_0x5657e3(0x24f)](_0x1f4411,{'document':{'url':_0x434daf[_0x5657e3(0x3a7)]},'mimetype':_0x5657e3(0x28b),'fileName':_0x434daf[_0x5657e3(0x206)]+_0x5657e3(0x30f),'caption':config[_0x5657e3(0x3a0)]},{'quoted':_0x282379});await _0x3afdbf[_0x5657e3(0x24f)](_0x1f4411,{'react':{'text':'📁','key':_0x4f636e[_0x5657e3(0x2e5)]}}),await _0x3afdbf[_0x5657e3(0x24f)](_0x1f4411,{'react':{'text':'✔','key':_0x282379[_0x5657e3(0x2e5)]}});}catch(_0x5b53c6){console[_0x5657e3(0x2dc)](_0x5657e3(0x294),_0x5b53c6),_0x3819a2(_0x5657e3(0x320));}}),cmd({'pattern':_0x2214bd(0x2eb),'alias':[_0x2214bd(0x33d)],'use':_0x2214bd(0x230),'react':_0x2214bd(0x2d0),'desc':_0x2214bd(0x383),'category':_0x2214bd(0x221),'filename':__filename},async(_0x436219,_0x53c139,_0x1f7f90,{from:_0x209001,prefix:_0x5546f9,l:_0x2680e1,quoted:_0x5290b4,body:_0x516311,isCmd:_0x51af22,command:_0x531255,args:_0x3816f5,q:_0x4247e6,isGroup:_0x4f1468,sender:_0x329a67,senderNumber:_0x2d27c1,botNumber2:_0x52463a,botNumber:_0x4625cd,pushname:_0x3f6237,isMe:_0x382b90,isOwner:_0x5ab0d8,groupMetadata:_0x11327d,groupName:_0x2e1440,participants:_0x26afcc,groupAdmins:_0x1b7cc5,isBotAdmins:_0x1d9059,isAdmins:_0x5036bc,reply:_0x331b11})=>{const _0x50826d=_0x2214bd;try{if(!_0x4247e6)return await _0x331b11('*Please\x20enter\x20a\x20query\x20or\x20a\x20url!*');const _0x10ba2d=_0x4247e6[_0x50826d(0x257)](/\?si=[^&]*/,'');var _0x2466f4=await yts(_0x10ba2d);let _0x279452=config[_0x50826d(0x3a0)];var _0x3050c1=_0x2466f4[_0x50826d(0x202)][0x0];let _0x12db3a=_0x50826d(0x336)+_0x3050c1['title']+'*\x20\x0a*├\x20`🐼\x20Views`\x20:\x20'+_0x3050c1[_0x50826d(0x1e9)]+_0x50826d(0x29c)+_0x3050c1[_0x50826d(0x34b)]+_0x50826d(0x283)+_0x3050c1[_0x50826d(0x30c)]+_0x50826d(0x229);const _0x5dd52b=[{'title':_0x50826d(0x1dd),'rows':[{'title':'```144p\x20Video```','rowId':_0x5546f9+(_0x50826d(0x1f0)+_0x3050c1['url'])},{'title':_0x50826d(0x33e),'rowId':_0x5546f9+(_0x50826d(0x290)+_0x3050c1[_0x50826d(0x30c)])},{'title':_0x50826d(0x2b3),'rowId':_0x5546f9+('videodl360\x20'+_0x3050c1[_0x50826d(0x30c)])},{'title':_0x50826d(0x307),'rowId':_0x5546f9+('videodl720\x20'+_0x3050c1[_0x50826d(0x30c)])},{'title':_0x50826d(0x1fe),'rowId':_0x5546f9+(_0x50826d(0x215)+_0x3050c1[_0x50826d(0x30c)])}]},{'title':_0x50826d(0x273),'rows':[{'title':_0x50826d(0x232),'rowId':_0x5546f9+(_0x50826d(0x2ee)+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':_0x50826d(0x2c9),'rowId':_0x5546f9+(_0x50826d(0x3c0)+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1['title'])},{'title':_0x50826d(0x254),'rowId':_0x5546f9+(_0x50826d(0x313)+_0x3050c1['url']+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':_0x50826d(0x315),'rowId':_0x5546f9+('docdl720\x20'+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':'```1080p\x20Document```','rowId':_0x5546f9+('docdl1080\x20'+_0x3050c1['url']+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])}]}],_0x415d99={'text':_0x12db3a,'image':{'url':_0x3050c1['thumbnail']},'footer':config[_0x50826d(0x3a0)],'title':'','buttonText':'*🔢\x20Reply\x20below\x20number*\x0a','sections':_0x5dd52b},_0x362da3={'title':_0x50826d(0x378),'sections':[{'title':_0x50826d(0x238),'rows':[{'title':_0x50826d(0x24a),'description':_0x50826d(0x1e0),'id':_0x5546f9+(_0x50826d(0x1f0)+_0x3050c1[_0x50826d(0x30c)])},{'title':'240p\x20Video','description':_0x50826d(0x306),'id':_0x5546f9+(_0x50826d(0x290)+_0x3050c1[_0x50826d(0x30c)])},{'title':'360p\x20Video','description':_0x50826d(0x27f),'id':_0x5546f9+(_0x50826d(0x304)+_0x3050c1[_0x50826d(0x30c)])},{'title':'720p\x20Video','description':_0x50826d(0x31a),'id':_0x5546f9+('videodl720\x20'+_0x3050c1['url'])},{'title':'1080p\x20Video','description':_0x50826d(0x3a6),'id':_0x5546f9+(_0x50826d(0x215)+_0x3050c1[_0x50826d(0x30c)])}]},{'title':_0x50826d(0x309),'rows':[{'title':_0x50826d(0x385),'description':'144p\x20quality\x20download','id':_0x5546f9+('docdl144\x20'+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':_0x50826d(0x360),'description':_0x50826d(0x306),'id':_0x5546f9+(_0x50826d(0x3c0)+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':_0x50826d(0x295),'description':_0x50826d(0x27f),'id':_0x5546f9+(_0x50826d(0x313)+_0x3050c1['url']+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':_0x50826d(0x3a3),'description':_0x50826d(0x31a),'id':_0x5546f9+(_0x50826d(0x243)+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])},{'title':'1080p\x20Document','description':_0x50826d(0x3a6),'id':_0x5546f9+(_0x50826d(0x223)+_0x3050c1[_0x50826d(0x30c)]+'&'+_0x3050c1[_0x50826d(0x32e)]+'&'+_0x3050c1[_0x50826d(0x322)])}]}]};if(config[_0x50826d(0x1da)]===_0x50826d(0x323))return await _0x436219[_0x50826d(0x24f)](_0x209001,{'image':{'url':_0x3050c1[_0x50826d(0x32e)]},'caption':_0x12db3a,'footer':config[_0x50826d(0x3a0)],'buttons':[{'buttonId':_0x50826d(0x369),'buttonText':{'displayText':_0x50826d(0x274)},'type':0x4,'nativeFlowInfo':{'name':_0x50826d(0x240),'paramsJson':JSON[_0x50826d(0x38c)](_0x362da3)}}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x53c139});else config['BUTTON']===_0x50826d(0x225)&&await _0x436219['listMessage4'](_0x209001,_0x415d99,_0x53c139);}catch(_0x523060){_0x331b11(_0x50826d(0x368)),_0x2680e1(_0x523060);}}),cmd({'pattern':'docdl144','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x225243,_0x3dc6b8,_0x479922,{from:_0x46959c,q:_0x16787a,reply:_0x3e4715})=>{const _0x229469=_0x2214bd;try{if(!_0x16787a)return await _0x3e4715(_0x229469(0x2fb));const _0x456d4a=_0x16787a[_0x229469(0x2f7)]('&'),_0x4f6019=_0x456d4a[0x0],_0x28a71b=_0x456d4a[0x1],_0x59470c=_0x456d4a[0x2]||_0x229469(0x2eb),_0x3718ed=await fetch(_0x28a71b),_0x5b5182=await _0x3718ed[_0x229469(0x207)](),_0x28e18c=await resizeImage(_0x5b5182,0xc8,0xc8),_0x29091f=await fetchJson(_0x229469(0x209)+_0x4f6019+_0x229469(0x3b8)),_0x4dbd3e=_0x29091f[_0x229469(0x30c)];await _0x225243[_0x229469(0x24f)](_0x46959c,{'react':{'text':'⬆️','key':_0x3dc6b8[_0x229469(0x2e5)]}}),await _0x225243[_0x229469(0x24f)](_0x46959c,{'document':{'url':_0x4dbd3e},'jpegThumbnail':_0x28e18c,'caption':config?.[_0x229469(0x3a0)]||'','mimetype':_0x229469(0x2c7),'fileName':(_0x29091f['filename']||_0x59470c)+'.mp4'},{'quoted':_0x3dc6b8}),await _0x225243[_0x229469(0x24f)](_0x46959c,{'react':{'text':'✔️','key':_0x3dc6b8['key']}});}catch(_0x235ac5){console[_0x229469(0x3a1)](_0x235ac5),await _0x3e4715(_0x229469(0x1e3));}}),cmd({'pattern':_0x2214bd(0x2e6),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x4271dc,_0x3ea811,_0x62f92a,{from:_0x232896,q:_0x277155,reply:_0x3b935c})=>{const _0x4bae2e=_0x2214bd;try{if(!_0x277155)return await _0x3b935c(_0x4bae2e(0x2fb));const _0x3030a2=_0x277155['split']('&'),_0x1af179=_0x3030a2[0x0],_0x3d85cd=_0x3030a2[0x1],_0x37cffe=_0x3030a2[0x2]||_0x4bae2e(0x2eb),_0x62f1d2=await fetch(_0x3d85cd),_0x1dcb73=await _0x62f1d2[_0x4bae2e(0x207)](),_0x4572bf=await resizeImage(_0x1dcb73,0xc8,0xc8),_0x338bb8=await fetchJson(_0x4bae2e(0x209)+_0x1af179+_0x4bae2e(0x372)),_0x9ca94f=_0x338bb8[_0x4bae2e(0x30c)];await _0x4271dc[_0x4bae2e(0x24f)](_0x232896,{'react':{'text':'⬆️','key':_0x3ea811[_0x4bae2e(0x2e5)]}}),await _0x4271dc[_0x4bae2e(0x24f)](_0x232896,{'document':{'url':_0x9ca94f},'jpegThumbnail':_0x4572bf,'caption':config?.[_0x4bae2e(0x3a0)]||'','mimetype':_0x4bae2e(0x2c7),'fileName':(_0x338bb8['filename']||_0x37cffe)+_0x4bae2e(0x31d)},{'quoted':_0x3ea811}),await _0x4271dc[_0x4bae2e(0x24f)](_0x232896,{'react':{'text':'✔️','key':_0x3ea811[_0x4bae2e(0x2e5)]}});}catch(_0x4f2356){console[_0x4bae2e(0x3a1)](_0x4f2356),await _0x3b935c(_0x4bae2e(0x1e3));}}),cmd({'pattern':_0x2214bd(0x3b7),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x33e2af,_0x364725,_0x277824,{from:_0x13799d,q:_0x311a5d,reply:_0x383492})=>{const _0x3ebd27=_0x2214bd;try{if(!_0x311a5d)return await _0x383492('*Need\x20a\x20YouTube\x20URL!*');const _0x4e0ad0=_0x311a5d[_0x3ebd27(0x2f7)]('&'),_0x31671b=_0x4e0ad0[0x0],_0x4ff07e=_0x4e0ad0[0x1],_0x68e917=_0x4e0ad0[0x2]||_0x3ebd27(0x2eb),_0x4c4337=await fetch(_0x4ff07e),_0x1f4ea0=await _0x4c4337[_0x3ebd27(0x207)](),_0x34f87f=await resizeImage(_0x1f4ea0,0xc8,0xc8),_0x5f6d90=await fetchJson(_0x3ebd27(0x209)+_0x31671b+_0x3ebd27(0x389)),_0x39f659=_0x5f6d90[_0x3ebd27(0x30c)];await _0x33e2af[_0x3ebd27(0x24f)](_0x13799d,{'react':{'text':'⬆️','key':_0x364725[_0x3ebd27(0x2e5)]}}),await _0x33e2af[_0x3ebd27(0x24f)](_0x13799d,{'document':{'url':_0x39f659},'jpegThumbnail':_0x34f87f,'caption':config?.[_0x3ebd27(0x3a0)]||'','mimetype':_0x3ebd27(0x2c7),'fileName':(_0x5f6d90[_0x3ebd27(0x224)]||_0x68e917)+_0x3ebd27(0x31d)},{'quoted':_0x364725}),await _0x33e2af['sendMessage'](_0x13799d,{'react':{'text':'✔️','key':_0x364725['key']}});}catch(_0x212eea){console[_0x3ebd27(0x3a1)](_0x212eea),await _0x383492(_0x3ebd27(0x1e3));}}),cmd({'pattern':_0x2214bd(0x1f2),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x543261,_0xb46217,_0x5eb4b7,{from:_0x11f93a,q:_0x4d6043,reply:_0x49b3cb})=>{const _0x3f175f=_0x2214bd;try{if(!_0x4d6043)return await _0x49b3cb(_0x3f175f(0x365));const _0x15abbf=_0x4d6043['split']('&'),_0x5885d6=_0x15abbf[0x0],_0x3fcfb5=_0x15abbf[0x1],_0x96c437=_0x15abbf[0x2]||'video',_0x515e9=await fetch(_0x3fcfb5),_0x3bf7db=await _0x515e9[_0x3f175f(0x207)](),_0x140eab=await resizeImage(_0x3bf7db,0xc8,0xc8),_0x5c5d32=await fetchJson(_0x3f175f(0x209)+_0x5885d6+'&format=mp4&audioBitrate=128&videoQuality=720&filenameStyle=pretty&vCodec=h264'),_0x10ac12=_0x5c5d32[_0x3f175f(0x30c)];await _0x543261[_0x3f175f(0x24f)](_0x11f93a,{'react':{'text':'⬆️','key':_0xb46217[_0x3f175f(0x2e5)]}}),await _0x543261[_0x3f175f(0x24f)](_0x11f93a,{'document':{'url':_0x10ac12},'jpegThumbnail':_0x140eab,'caption':config?.['FOOTER']||'','mimetype':_0x3f175f(0x2c7),'fileName':(_0x5c5d32[_0x3f175f(0x224)]||_0x96c437)+_0x3f175f(0x31d)},{'quoted':_0xb46217}),await _0x543261[_0x3f175f(0x24f)](_0x11f93a,{'react':{'text':'✔️','key':_0xb46217[_0x3f175f(0x2e5)]}});}catch(_0x5d38b9){console[_0x3f175f(0x2dc)](_0x5d38b9);}}),cmd({'pattern':_0x2214bd(0x27b),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x1a43a7,_0x11c5e3,_0x269787,{from:_0x141f40,q:_0x45f010,reply:_0x159aa9})=>{const _0x25001a=_0x2214bd;try{if(!_0x45f010)return await _0x159aa9(_0x25001a(0x365));const _0x7fb8a0=_0x45f010[_0x25001a(0x2f7)]('&'),_0x407ec8=_0x7fb8a0[0x0],_0x35216e=_0x7fb8a0[0x1],_0x3138ce=_0x7fb8a0[0x2]||'video',_0xfb9241=await fetch(_0x35216e),_0x57485e=await _0xfb9241['buffer'](),_0x4b94c5=await resizeImage(_0x57485e,0xc8,0xc8),_0x3b37ca=await fetchJson(_0x25001a(0x209)+_0x407ec8+_0x25001a(0x2c6)),_0x2ed3a0=_0x3b37ca[_0x25001a(0x30c)];await _0x1a43a7[_0x25001a(0x24f)](_0x141f40,{'react':{'text':'⬆️','key':_0x11c5e3[_0x25001a(0x2e5)]}}),await _0x1a43a7[_0x25001a(0x24f)](_0x141f40,{'document':{'url':_0x2ed3a0},'jpegThumbnail':_0x4b94c5,'caption':config?.[_0x25001a(0x3a0)]||'','mimetype':'video/mp4','fileName':(_0x3b37ca['filename']||_0x3138ce)+_0x25001a(0x31d)},{'quoted':_0x11c5e3}),await _0x1a43a7[_0x25001a(0x24f)](_0x141f40,{'react':{'text':'✔️','key':_0x11c5e3['key']}});}catch(_0x264e00){console[_0x25001a(0x2dc)](_0x264e00);}}),cmd({'pattern':'videodl144','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x2338c1,_0x2ecd30,_0x2d664c,{from:_0x3994ed,q:_0x29640d,reply:_0x34c39c})=>{const _0x397b1a=_0x2214bd;try{if(!_0x29640d)return await _0x34c39c(_0x397b1a(0x3a9));const _0x4a3275=await fetchJson('https://sadas-ytmp4-5.vercel.app/convert?link='+_0x29640d+_0x397b1a(0x3b8)),_0x300106=_0x4a3275[_0x397b1a(0x30c)];await _0x2338c1[_0x397b1a(0x24f)](_0x3994ed,{'react':{'text':'⬆️','key':_0x2ecd30[_0x397b1a(0x2e5)]}}),await _0x2338c1[_0x397b1a(0x24f)](_0x3994ed,{'video':{'url':_0x300106},'caption':_0x4a3275['filename']||'Downloaded\x20Video'},{'quoted':_0x2ecd30}),await _0x2338c1[_0x397b1a(0x24f)](_0x3994ed,{'react':{'text':'✔️','key':_0x2ecd30[_0x397b1a(0x2e5)]}});}catch(_0x51ebae){console[_0x397b1a(0x3a1)](_0x51ebae),await _0x34c39c(_0x397b1a(0x1f9));}}),cmd({'pattern':'videodl240','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x45f87e,_0x3c8575,_0x1a3030,{from:_0x4cb5d4,q:_0x228e51,reply:_0x255289})=>{const _0x5ede2c=_0x2214bd;try{const _0x1d1f43=await fetchJson(_0x5ede2c(0x209)+_0x228e51+_0x5ede2c(0x380)),_0x1b4fc9=_0x1d1f43[_0x5ede2c(0x30c)];await _0x45f87e['sendMessage'](_0x4cb5d4,{'react':{'text':'⬆️','key':_0x3c8575[_0x5ede2c(0x2e5)]}}),await _0x45f87e['sendMessage'](_0x4cb5d4,{'video':{'url':_0x1b4fc9},'caption':_0x1d1f43[_0x5ede2c(0x224)]||_0x5ede2c(0x3b6)},{'quoted':_0x3c8575}),await _0x45f87e[_0x5ede2c(0x24f)](_0x4cb5d4,{'react':{'text':'✔️','key':_0x3c8575[_0x5ede2c(0x2e5)]}});}catch(_0xd02d79){_0x255289(_0x5ede2c(0x368)),console['log'](_0xd02d79);}}),cmd({'pattern':_0x2214bd(0x3ae),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x598d04,_0x59bf80,_0x3c80c1,{from:_0x430cd6,q:_0xd18a07,reply:_0x3bd143})=>{const _0x38ba0a=_0x2214bd;try{const _0x380914=await fetchJson(_0x38ba0a(0x209)+_0xd18a07+_0x38ba0a(0x2ae)),_0x215028=_0x380914[_0x38ba0a(0x30c)];await _0x598d04[_0x38ba0a(0x24f)](_0x430cd6,{'react':{'text':'⬆️','key':_0x59bf80[_0x38ba0a(0x2e5)]}}),await _0x598d04[_0x38ba0a(0x24f)](_0x430cd6,{'video':{'url':_0x215028},'caption':_0x380914[_0x38ba0a(0x224)]||_0x38ba0a(0x3b6)},{'quoted':_0x59bf80}),await _0x598d04[_0x38ba0a(0x24f)](_0x430cd6,{'react':{'text':'✔️','key':_0x59bf80['key']}});}catch(_0x4e76f6){_0x3bd143(_0x38ba0a(0x368)),console[_0x38ba0a(0x2dc)](_0x4e76f6);}}),cmd({'pattern':'videodl720','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x406c8f,_0x3001f2,_0x4a90b1,{from:_0x97c56b,q:_0x358372,reply:_0x4da0cd})=>{const _0x37d82f=_0x2214bd;try{const _0x3ce135=await fetchJson(_0x37d82f(0x209)+_0x358372+_0x37d82f(0x26e)),_0x4a0a45=_0x3ce135['url'];await _0x406c8f[_0x37d82f(0x24f)](_0x97c56b,{'react':{'text':'⬆️','key':_0x3001f2[_0x37d82f(0x2e5)]}}),await _0x406c8f['sendMessage'](_0x97c56b,{'video':{'url':_0x4a0a45},'caption':_0x3ce135[_0x37d82f(0x224)]||_0x37d82f(0x3b6)},{'quoted':_0x3001f2}),await _0x406c8f[_0x37d82f(0x24f)](_0x97c56b,{'react':{'text':'✔️','key':_0x3001f2[_0x37d82f(0x2e5)]}});}catch(_0x4c96f1){_0x4da0cd(_0x37d82f(0x368)),console[_0x37d82f(0x2dc)](_0x4c96f1);}}),cmd({'pattern':_0x2214bd(0x35a),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x30d751,_0x42080d,_0x1aa1da,{from:_0xe320fe,q:_0x31e6ff,reply:_0x1d581b})=>{const _0x5ed63a=_0x2214bd;try{const _0x5c8e83=await fetchJson(_0x5ed63a(0x209)+_0x31e6ff+'&format=mp4&audioBitrate=128&videoQuality=1080&filenameStyle=pretty&vCodec=h264'),_0x310b12=_0x5c8e83[_0x5ed63a(0x30c)];await _0x30d751[_0x5ed63a(0x24f)](_0xe320fe,{'react':{'text':'⬆️','key':_0x42080d[_0x5ed63a(0x2e5)]}}),await _0x30d751['sendMessage'](_0xe320fe,{'video':{'url':_0x310b12},'caption':_0x5c8e83[_0x5ed63a(0x224)]||_0x5ed63a(0x3b6)},{'quoted':_0x42080d}),await _0x30d751[_0x5ed63a(0x24f)](_0xe320fe,{'react':{'text':'✔️','key':_0x42080d['key']}});}catch(_0x5e71e9){_0x1d581b(_0x5ed63a(0x368)),console['log'](_0x5e71e9);}}),cmd({'pattern':'mediafire','react':'🔥','alias':['mfire',_0x2214bd(0x21a)],'category':_0x2214bd(0x221),'use':_0x2214bd(0x2cd),'filename':__filename},async(_0x544a7f,_0x143df3,_0x1f74e9,{from:_0x57206c,l:_0x5e9b6e,quoted:_0x2780ae,body:_0x555eda,isCmd:_0x144a2a,command:_0x18047b,args:_0x454aff,q:_0x1c8d5a,isGroup:_0x370d65,sender:_0xb6b698,senderNumber:_0x7329f3,botNumber2:_0x4e7e59,botNumber:_0x230139,pushname:_0x192fbd,isMe:_0x1d2749,isOwner:_0x12b412,groupMetadata:_0x5ad9de,groupName:_0x31f436,participants:_0x23ef0d,groupAdmins:_0x4d670a,isBotAdmins:_0x4721f9,isAdmins:_0x116759,reply:_0xcdeb8e})=>{const _0x3cd5ac=_0x2214bd;try{await _0x544a7f['sendMessage'](_0x57206c,{'react':{'text':'⬇️','key':_0x143df3[_0x3cd5ac(0x2e5)]}});if(!_0x1c8d5a)return await _0x544a7f['sendMessage'](_0x57206c,{'text':_0x3cd5ac(0x35d)},{'quoted':_0x143df3});const _0x438aa2=await fetchJson(_0x3cd5ac(0x2f0)+_0x1c8d5a);let _0x443dd0=_0x3cd5ac(0x363)+_0x438aa2['fileName']+_0x3cd5ac(0x260)+_0x438aa2[_0x3cd5ac(0x302)]+_0x3cd5ac(0x3b2)+_0x438aa2[_0x3cd5ac(0x269)]+_0x3cd5ac(0x24b)+_0x438aa2[_0x3cd5ac(0x324)]+_0x3cd5ac(0x30e);_0xcdeb8e(_0x443dd0);let _0x3e8a42=await _0x544a7f['sendMessage'](_0x57206c,{'document':{'url':_0x438aa2['dl_link']},'mimetype':''+_0x438aa2[_0x3cd5ac(0x2bf)],'fileName':''+_0x438aa2['fileName'],'caption':''},{'quoted':_0x143df3});await _0x544a7f[_0x3cd5ac(0x24f)](_0x57206c,{'react':{'text':'📁','key':_0x3e8a42[_0x3cd5ac(0x2e5)]}}),await _0x544a7f[_0x3cd5ac(0x24f)](_0x57206c,{'react':{'text':'✔','key':_0x143df3[_0x3cd5ac(0x2e5)]}});}catch(_0x1db0cb){_0xcdeb8e(_0x3cd5ac(0x2a0)),console[_0x3cd5ac(0x2dc)](_0x1db0cb);}});async function xnxxs(_0x5042ea){return new Promise((_0x5b21c6,_0x46e13e)=>{const _0x27fbe8=_0x4641,_0x3c7b3a='https://www.xnxx.com';fetch(_0x3c7b3a+'/search/'+_0x5042ea+'/'+(Math[_0x27fbe8(0x2f1)](Math[_0x27fbe8(0x2d2)]()*0x3)+0x1),{'method':_0x27fbe8(0x1d8)})[_0x27fbe8(0x397)](_0x2bab7e=>_0x2bab7e['text']())[_0x27fbe8(0x397)](_0x87f377=>{const _0x166d84=_0x27fbe8,_0x3867f3=cheerio['load'](_0x87f377,{'xmlMode':![]}),_0x515330=[],_0x5b79d8=[],_0x4325e0=[],_0x5102c1=[];_0x3867f3(_0x166d84(0x3b1))[_0x166d84(0x2dd)](function(_0x179e20,_0x29414d){const _0x375628=_0x166d84;_0x3867f3(_0x29414d)[_0x375628(0x227)](_0x375628(0x214))[_0x375628(0x2dd)](function(_0x41570b,_0xe78584){const _0x114e9a=_0x375628;_0x5b79d8[_0x114e9a(0x249)](_0x3c7b3a+_0x3867f3(_0xe78584)[_0x114e9a(0x227)]('a')[_0x114e9a(0x281)](_0x114e9a(0x38a))[_0x114e9a(0x257)](_0x114e9a(0x2ad),'/'));});}),_0x3867f3('div.mozaique')[_0x166d84(0x2dd)](function(_0x49545c,_0x562272){const _0x2f29b9=_0x166d84;_0x3867f3(_0x562272)[_0x2f29b9(0x227)]('div.thumb-under')[_0x2f29b9(0x2dd)](function(_0x516777,_0x22e33e){const _0x32af5e=_0x2f29b9;_0x4325e0['push'](_0x3867f3(_0x22e33e)[_0x32af5e(0x227)]('p.metadata')['text']()),_0x3867f3(_0x22e33e)['find']('a')[_0x32af5e(0x2dd)](function(_0x50c8ee,_0x2fe99e){const _0x48830d=_0x32af5e;_0x515330['push'](_0x3867f3(_0x2fe99e)[_0x48830d(0x281)](_0x48830d(0x322)));});});});for(let _0x1806c7=0x0;_0x1806c7<_0x515330[_0x166d84(0x29d)];_0x1806c7++){_0x5102c1[_0x166d84(0x249)]({'title':_0x515330[_0x1806c7],'info':_0x4325e0[_0x1806c7],'link':_0x5b79d8[_0x1806c7]});}_0x5b21c6({'status':!![],'result':_0x5102c1});})[_0x27fbe8(0x37b)](_0x4ec812=>_0x46e13e({'status':![],'result':_0x4ec812}));});}function _0x4641(_0x2de16a,_0x482f21){const _0x29db49=_0x29db();return _0x4641=function(_0x464177,_0x18b2a1){_0x464177=_0x464177-0x1d7;let _0x949b2f=_0x29db49[_0x464177];return _0x949b2f;},_0x4641(_0x2de16a,_0x482f21);}cmd({'pattern':_0x2214bd(0x2c3),'react':'🔎','category':_0x2214bd(0x221),'desc':_0x2214bd(0x20a),'use':_0x2214bd(0x3a4),'filename':__filename},async(_0x11a2fc,_0x590b13,_0x294908,{from:_0x29988c,q:_0x254e91,isSudo:_0x15c8eb,isOwner:_0x4924cd,prefix:_0x322062,isMe:_0x59cb47,reply:_0x5965cb})=>{const _0x14b3c7=_0x2214bd;try{if(config[_0x14b3c7(0x37e)]==_0x14b3c7(0x323)&&!_0x59cb47&&!_0x15c8eb&&!_0x4924cd)return await _0x11a2fc[_0x14b3c7(0x24f)](_0x29988c,{'react':{'text':'❌','key':_0x294908['key']}}),await _0x11a2fc[_0x14b3c7(0x24f)](_0x29988c,{'text':'*This\x20command\x20currently\x20only\x20works\x20for\x20the\x20Bot\x20owner.\x20To\x20disable\x20it\x20for\x20others,\x20use\x20the\x20.settings\x20command\x20👨‍🔧.*'},{'quoted':_0x294908});if(!_0x254e91)return _0x5965cb('🚩\x20*Please\x20give\x20me\x20words\x20to\x20search*');let _0x22dc25=await xnxxs(_0x254e91);const _0x55b126=_0x22dc25['result'];var _0x5410d2=[];for(var _0x2e5836=0x0;_0x2e5836<_0x22dc25[_0x14b3c7(0x204)][_0x14b3c7(0x29d)];_0x2e5836++){_0x5410d2['push']({'title':_0x22dc25[_0x14b3c7(0x204)][_0x2e5836][_0x14b3c7(0x322)],'description':'','rowId':_0x322062+('xnxxdown\x20'+_0x22dc25[_0x14b3c7(0x204)][_0x2e5836][_0x14b3c7(0x291)]+'}')});}const _0x5610a4=[{'title':_0x14b3c7(0x2a3),'rows':_0x5410d2}],_0x1623cf={'text':_0x14b3c7(0x259)+_0x254e91,'footer':config[_0x14b3c7(0x3a0)],'title':_0x14b3c7(0x2a3),'buttonText':'*Reply\x20Below\x20Number\x20🔢*','sections':_0x5610a4},_0x1ac1df=_0x14b3c7(0x259)+_0x254e91,_0x21ab3a={'title':_0x14b3c7(0x2b7),'sections':[{'title':_0x14b3c7(0x36a),'rows':_0x22dc25['result']['map'](_0x150a87=>({'title':_0x150a87[_0x14b3c7(0x322)],'description':'','id':_0x322062+(_0x14b3c7(0x357)+_0x150a87[_0x14b3c7(0x291)])}))}]};if(config['BUTTON']===_0x14b3c7(0x323))return await _0x11a2fc[_0x14b3c7(0x24f)](_0x29988c,{'image':{'url':config[_0x14b3c7(0x354)]},'caption':_0x1ac1df,'footer':config[_0x14b3c7(0x3a0)],'buttons':[{'buttonId':'Video\x20quality\x20list','buttonText':{'displayText':'🎥\x20Select\x20Option'},'type':0x4,'nativeFlowInfo':{'name':_0x14b3c7(0x240),'paramsJson':JSON[_0x14b3c7(0x38c)](_0x21ab3a)}}],'headerType':0x1,'viewOnce':!![]},{'quoted':_0x294908});else config['BUTTON']==='false'&&await _0x11a2fc['listMessage'](_0x29988c,_0x1623cf,_0x294908);}catch(_0x54df05){console[_0x14b3c7(0x2dc)](_0x54df05),await _0x11a2fc[_0x14b3c7(0x24f)](_0x29988c,{'text':_0x14b3c7(0x348)},{'quoted':_0x294908});}});async function xdl(_0x36cd9b){return new Promise((_0x1514b2,_0x47d69d)=>{const _0x242f95=_0x4641;fetch(''+_0x36cd9b,{'method':_0x242f95(0x1d8)})[_0x242f95(0x397)](_0x64c5e6=>_0x64c5e6[_0x242f95(0x24e)]())[_0x242f95(0x397)](_0x2bdc3a=>{const _0xd7177d=_0x242f95,_0x16adaf=cheerio[_0xd7177d(0x20b)](_0x2bdc3a,{'xmlMode':![]}),_0x2e5ebd=_0x16adaf(_0xd7177d(0x20f))['attr']('content'),_0x3334dd=_0x16adaf(_0xd7177d(0x375))[_0xd7177d(0x281)]('content'),_0x222129=_0x16adaf(_0xd7177d(0x2c5))[_0xd7177d(0x281)](_0xd7177d(0x2e7)),_0x5e7276=_0x16adaf(_0xd7177d(0x3af))[_0xd7177d(0x281)](_0xd7177d(0x2e7)),_0x2d401f=_0x16adaf(_0xd7177d(0x2a2))[_0xd7177d(0x281)](_0xd7177d(0x2e7)),_0x2839d1=_0x16adaf('meta[property=\x22og:video:height\x22]')[_0xd7177d(0x281)](_0xd7177d(0x2e7)),_0x4b9654=_0x16adaf(_0xd7177d(0x3b5))[_0xd7177d(0x24e)](),_0x4b7315=_0x16adaf(_0xd7177d(0x32a))[_0xd7177d(0x341)](),_0x41a1cc={'low':(_0x4b7315[_0xd7177d(0x2ac)](_0xd7177d(0x356))||[])[0x1],'high':_0x4b7315[_0xd7177d(0x2ac)]('html5player.setVideoUrlHigh\x5c(\x27(.*?)\x27\x5c);'||[])[0x1],'HLS':_0x4b7315[_0xd7177d(0x2ac)](_0xd7177d(0x25f)||[])[0x1],'thumb':_0x4b7315['match'](_0xd7177d(0x1f4)||[])[0x1],'thumb69':_0x4b7315[_0xd7177d(0x2ac)]('html5player.setThumbUrl169\x5c(\x27(.*?)\x27\x5c);'||[])[0x1],'thumbSlide':_0x4b7315['match'](_0xd7177d(0x2d5)||[])[0x1],'thumbSlideBig':_0x4b7315[_0xd7177d(0x2ac)](_0xd7177d(0x353)||[])[0x1]};_0x1514b2({'status':!![],'result':{'title':_0x2e5ebd,'URL':_0x36cd9b,'duration':_0x3334dd,'image':_0x222129,'videoType':_0x5e7276,'videoWidth':_0x2d401f,'videoHeight':_0x2839d1,'info':_0x4b9654,'files':_0x41a1cc}});})['catch'](_0x7cb404=>_0x47d69d({'status':![],'result':_0x7cb404}));});}cmd({'pattern':'xnxxdown','alias':[_0x2214bd(0x352),_0x2214bd(0x31b)],'react':'🔞','dontAddCommandList':!![],'filename':__filename},async(_0x433934,_0xb8b6c,_0x495e3b,{from:_0x287999,l:_0x578507,quoted:_0x112fa5,body:_0x258987,isCmd:_0x5b5a39,command:_0x4b237a,args:_0x2be46c,q:_0x40d53c,isGroup:_0x13607b,sender:_0x55e493,senderNumber:_0x224f59,botNumber2:_0x11d687,botNumber:_0x364ed1,pushname:_0x607b8a,isMe:_0x1d2d9a,isOwner:_0x2da060,groupMetadata:_0xc997e4,groupName:_0x1d92e9,participants:_0x9839b7,groupAdmins:_0x58d651,isBotAdmins:_0x2c5ebb,isAdmins:_0x4f173b,reply:_0x465cb1})=>{const _0x5a24df=_0x2214bd;try{if(!_0x40d53c)return _0x465cb1(_0x5a24df(0x264));let _0x6962a4=await xdl(_0x40d53c),_0x49adf2=_0x6962a4[_0x5a24df(0x204)]['title'];await _0x433934['sendMessage'](_0x287999,{'video':{'url':_0x6962a4[_0x5a24df(0x204)][_0x5a24df(0x292)][_0x5a24df(0x2a5)]},'caption':_0x49adf2},{'quoted':_0xb8b6c});}catch(_0x572c94){_0x465cb1(_0x5a24df(0x368)),console['log'](_0x572c94);}}),cmd({'pattern':_0x2214bd(0x23a),'react':'🔎','category':_0x2214bd(0x221),'desc':_0x2214bd(0x20a),'use':_0x2214bd(0x3a4),'filename':__filename},async(_0x375da6,_0x5b6905,_0x14ebfe,{from:_0x278e5f,q:_0x486245,isSudo:_0x4158b8,isOwner:_0x39f258,prefix:_0x1e6aac,isMe:_0x59c224,reply:_0x1c0064})=>{const _0x40d857=_0x2214bd;try{if(config['XNXX_BLOCK']=='true'&&!_0x59c224&&!_0x4158b8&&!_0x39f258)return await _0x375da6[_0x40d857(0x24f)](_0x278e5f,{'react':{'text':'❌','key':_0x14ebfe[_0x40d857(0x2e5)]}}),await _0x375da6[_0x40d857(0x24f)](_0x278e5f,{'text':_0x40d857(0x310)},{'quoted':_0x14ebfe});if(!_0x486245)return _0x1c0064(_0x40d857(0x35b));let _0x54b2d5=await phsearch(_0x486245);var _0x3d6f46=[];for(var _0x170eed=0x0;_0x170eed<_0x54b2d5[_0x40d857(0x29d)];_0x170eed++){_0x3d6f46[_0x40d857(0x249)]({'title':_0x54b2d5[_0x170eed]['title'],'description':'','rowId':_0x1e6aac+(_0x40d857(0x370)+_0x54b2d5[_0x170eed]['link']+'}')});}const _0x1b38da=[{'title':'pornhub.com\x20results','rows':_0x3d6f46}],_0x4fd370={'text':_0x40d857(0x233)+_0x486245,'footer':config[_0x40d857(0x3a0)],'title':_0x40d857(0x1f6),'buttonText':_0x40d857(0x22a),'sections':_0x1b38da};await _0x375da6[_0x40d857(0x312)](_0x278e5f,_0x4fd370,_0x14ebfe);}catch(_0x316951){console['log'](_0x316951),await _0x375da6['sendMessage'](_0x278e5f,{'text':_0x40d857(0x348)},{'quoted':_0x14ebfe});}}),cmd({'pattern':'phinfo','react':'🔞','filename':__filename},async(_0x5442e9,_0x217f42,_0xa6a15f,{from:_0x4bf16d,q:_0x3c67da,isMe:_0x48ad4c,prefix:_0xe5438,reply:_0x4d551b})=>{const _0x2c92a8=_0x2214bd;try{let _0x54ae9e=await fetchJson(_0x2c92a8(0x311)+_0x3c67da),_0x14c2af=_0x2c92a8(0x3bf)+_0x54ae9e['video_title']+_0x2c92a8(0x39a)+_0x54ae9e[_0x2c92a8(0x28d)]+'\x0a*├\x20`🧐\x20Uploder`\x20:*\x20'+_0x54ae9e['video_uploader']+'\x0a*├\x20`🔗\x20Url`\x20:*\x20'+_0x3c67da+_0x2c92a8(0x2df);var _0x49f9ea=[];_0x54ae9e[_0x2c92a8(0x36f)][_0x2c92a8(0x1d9)](_0x166b77=>{const _0x41f38d=_0x2c92a8;_0x49f9ea[_0x41f38d(0x249)]({'buttonId':_0xe5438+(_0x41f38d(0x359)+_0x54ae9e[_0x41f38d(0x27c)]+'±'+_0x166b77['download_url']+'±'+_0x54ae9e[_0x41f38d(0x23c)]),'buttonText':{'displayText':''+_0x166b77[_0x41f38d(0x382)]},'type':0x1});});const _0x28a11d={'image':{'url':_0x54ae9e[_0x2c92a8(0x27c)]},'caption':_0x14c2af,'footer':config[_0x2c92a8(0x3a0)],'buttons':_0x49f9ea,'headerType':0x4};return await _0x5442e9[_0x2c92a8(0x35c)](_0x4bf16d,_0x28a11d,_0xa6a15f);}catch(_0x13730f){console[_0x2c92a8(0x2dc)](_0x13730f),await _0x5442e9[_0x2c92a8(0x24f)](_0x4bf16d,{'text':_0x2c92a8(0x348)},{'quoted':_0xa6a15f});}}),cmd({'pattern':_0x2214bd(0x37d),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x332c1d,_0x523614,_0x41ae21,{from:_0x3ee51b,q:_0x4c75c8,reply:_0xf807fb})=>{const _0x188e59=_0x2214bd;try{if(!_0x4c75c8)return await _0xf807fb(_0x188e59(0x365));const _0x401c5b=_0x4c75c8['split']('±')[0x0],_0x270141=_0x4c75c8[_0x188e59(0x2f7)]('±')[0x1],_0x4f7ec8=_0x4c75c8['split']('±')[0x2];await _0x332c1d[_0x188e59(0x24f)](_0x3ee51b,{'react':{'text':'⬆️','key':_0x523614[_0x188e59(0x2e5)]}}),await _0x332c1d[_0x188e59(0x24f)](_0x3ee51b,{'document':{'url':_0x270141},'caption':config[_0x188e59(0x3a0)],'mimetype':_0x188e59(0x2c7),'caption':wm,'fileName':''+_0x4f7ec8},{'quoted':_0x523614}),await _0x332c1d['sendMessage'](_0x3ee51b,{'react':{'text':'✔️','key':_0x523614[_0x188e59(0x2e5)]}});}catch(_0x22de42){console[_0x188e59(0x2dc)](_0x22de42);}}),cmd({'pattern':_0x2214bd(0x38f),'react':'🎶','category':_0x2214bd(0x221),'desc':_0x2214bd(0x29f),'use':_0x2214bd(0x2f2),'filename':__filename},async(_0x594ce6,_0xfe69c3,_0x1e3ac0,{from:_0x30d2a2,q:_0x3c8b22,isSudo:_0x35311e,isOwner:_0x42bd64,prefix:_0x1c719f,isMe:_0x3016b8,reply:_0x47252e})=>{const _0x330e71=_0x2214bd;try{if(!_0x3c8b22)return _0x47252e(_0x330e71(0x35b));let _0xf0a815=await fetchJson(_0x330e71(0x2d8)+_0x3c8b22);var _0x525d85=[];for(var _0x568305=0x0;_0x568305<_0xf0a815[_0x330e71(0x29d)];_0x568305++){_0x525d85[_0x330e71(0x249)]({'title':_0xf0a815[_0x568305]['song_name'],'description':'','rowId':_0x1c719f+('spotifydl\x20'+_0xf0a815[_0x568305]['track_url'])});}const _0x55267c=[{'title':_0x330e71(0x21e),'rows':_0x525d85}],_0x4c24b7={'text':_0x330e71(0x279)+_0x3c8b22,'footer':config[_0x330e71(0x3a0)],'title':_0x330e71(0x21e),'buttonText':_0x330e71(0x22a),'sections':_0x55267c};await _0x594ce6[_0x330e71(0x312)](_0x30d2a2,_0x4c24b7,_0x1e3ac0);}catch(_0x209853){console[_0x330e71(0x2dc)](_0x209853),await _0x594ce6[_0x330e71(0x24f)](_0x30d2a2,{'text':_0x330e71(0x348)},{'quoted':_0x1e3ac0});}}),cmd({'pattern':'spotifydl','alias':['ytsong'],'use':_0x2214bd(0x266),'react':'🎧','desc':_0x2214bd(0x247),'filename':__filename},async(_0x1cc199,_0x50ecb1,_0x233667,{from:_0x850506,prefix:_0x4a36d1,l:_0x38ecae,quoted:_0x2b4579,body:_0x55f828,isCmd:_0x14e0f7,command:_0x1ab18c,args:_0x42c79c,q:_0x312bf4,isGroup:_0x3bede5,sender:_0x13f9c1,senderNumber:_0xbc39c5,botNumber2:_0x408fa9,botNumber:_0x251cb4,pushname:_0x44247d,isMe:_0x4ab69e,isOwner:_0x3619f4,groupMetadata:_0x17ae85,groupName:_0x20987b,participants:_0x49c447,groupAdmins:_0x392ca2,isBotAdmins:_0x306279,isAdmins:_0x1042b3,reply:_0x9bd00d})=>{const _0x2726e0=_0x2214bd;try{if(!_0x312bf4)return await _0x9bd00d('*Please\x20enter\x20a\x20query\x20or\x20a\x20URL!*');const _0x5ed40a=await axios[_0x2726e0(0x1d8)](_0x2726e0(0x2a8)+encodeURIComponent(_0x312bf4)),_0x207b82=_0x5ed40a[_0x2726e0(0x1ec)][_0x2726e0(0x1ec)];if(!_0x207b82||!_0x207b82[_0x2726e0(0x1f5)])return await _0x9bd00d(_0x2726e0(0x287));let _0x175ef0=_0x2726e0(0x32b)+_0x207b82[_0x2726e0(0x322)]+'\x0a*├\x20`🧑‍🎤\x20Artist:`*\x20'+_0x207b82[_0x2726e0(0x391)]+_0x2726e0(0x30d)+_0x207b82[_0x2726e0(0x29b)]+'\x0a*├\x20`📅\x20Date:`*\x20'+_0x207b82[_0x2726e0(0x300)]+_0x2726e0(0x24d)+_0x312bf4+_0x2726e0(0x30e);const _0x14ddf1=[{'buttonId':_0x4a36d1+_0x2726e0(0x399)+_0x207b82['downloadLink'],'buttonText':{'displayText':'Audio\x20Type\x20🎶'},'type':0x1},{'buttonId':_0x4a36d1+(_0x2726e0(0x22d)+_0x207b82[_0x2726e0(0x1f5)]+'&'+_0x207b82[_0x2726e0(0x21d)]+'&'+_0x207b82[_0x2726e0(0x322)]),'buttonText':{'displayText':_0x2726e0(0x2b8)},'type':0x1}],_0x42138d={'image':{'url':_0x207b82[_0x2726e0(0x21d)]},'caption':_0x175ef0,'footer':config['FOOTER'],'buttons':_0x14ddf1,'headerType':0x4};await _0x1cc199[_0x2726e0(0x35c)](_0x850506,_0x42138d,_0x50ecb1);}catch(_0x4675d9){console['error'](_0x2726e0(0x251),_0x4675d9),await _0x9bd00d(_0x2726e0(0x314));}}),cmd({'pattern':_0x2214bd(0x2ff),'react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0xe6b434,_0x23c408,_0x2048bf,{from:_0x43f9c8,q:_0x4073a4,reply:_0x15ed5d})=>{const _0x524044=_0x2214bd;if(!_0x4073a4)return await _0x15ed5d(_0x524044(0x365));try{await _0xe6b434[_0x524044(0x24f)](_0x43f9c8,{'react':{'text':'⬆️','key':_0x23c408[_0x524044(0x2e5)]}}),await _0xe6b434[_0x524044(0x24f)](_0x43f9c8,{'audio':{'url':_0x4073a4},'mimetype':_0x524044(0x200)},{'quoted':_0x23c408}),await _0xe6b434[_0x524044(0x24f)](_0x43f9c8,{'react':{'text':'✔️','key':_0x23c408['key']}});}catch(_0xa0d45){console['log'](_0xa0d45);}}),cmd({'pattern':'spad','react':'⬇️','dontAddCommandList':!![],'filename':__filename},async(_0x4bb21b,_0x40c2d5,_0x45ef6e,{from:_0x26a169,q:_0x28b902,reply:_0x43a078})=>{const _0x4e6595=_0x2214bd;try{if(!_0x28b902)return await _0x43a078(_0x4e6595(0x365));const _0x50ca3c=_0x28b902[_0x4e6595(0x2f7)]('&')[0x0],_0x15054d=_0x28b902['split']('&')[0x1],_0x4076d7=_0x28b902['split']('&')[0x2],_0x125241=_0x15054d,_0x5cf56a=await fetch(_0x125241),_0x3aa143=await _0x5cf56a[_0x4e6595(0x207)](),_0x55b7af=await resizeImage(_0x3aa143,0xc8,0xc8);await _0x4bb21b[_0x4e6595(0x24f)](_0x26a169,{'react':{'text':'⬆️','key':_0x40c2d5[_0x4e6595(0x2e5)]}}),await _0x4bb21b[_0x4e6595(0x24f)](_0x26a169,{'document':{'url':_0x50ca3c},'jpegThumbnail':_0x55b7af,'caption':config[_0x4e6595(0x3a0)],'mimetype':_0x4e6595(0x200),'caption':wm,'fileName':''+_0x4076d7},{'quoted':_0x40c2d5}),await _0x4bb21b[_0x4e6595(0x24f)](_0x26a169,{'react':{'text':'✔️','key':_0x40c2d5[_0x4e6595(0x2e5)]}});}catch(_0x278319){console['log'](_0x278319);}}),cmd({'pattern':_0x2214bd(0x39f),'react':'🎶','category':_0x2214bd(0x221),'desc':'soundcloud\x20search','use':'.soundcloud\x20lelena','filename':__filename},async(_0x2149df,_0x546105,_0x210a58,{from:_0x4d5bcc,q:_0x137ad2,isSudo:_0x2e35eb,isOwner:_0xeedcb5,prefix:_0x65b59f,isMe:_0x4923b8,reply:_0x2397a3})=>{const _0x4bcfb7=_0x2214bd;try{if(!_0x137ad2)return _0x2397a3(_0x4bcfb7(0x35b));let _0x218d1b=await fetchJson(_0x4bcfb7(0x350)+_0x137ad2+_0x4bcfb7(0x2f4));var _0x40097c=[];for(var _0x346223=0x0;_0x346223<_0x218d1b[_0x4bcfb7(0x204)][_0x4bcfb7(0x29d)];_0x346223++){_0x40097c[_0x4bcfb7(0x249)]({'title':_0x218d1b[_0x4bcfb7(0x204)][_0x346223][_0x4bcfb7(0x322)],'description':'','rowId':_0x65b59f+('sounddl\x20'+_0x218d1b[_0x4bcfb7(0x204)][_0x346223][_0x4bcfb7(0x30c)])});}const _0x25cd45=[{'title':_0x4bcfb7(0x2b5),'rows':_0x40097c}],_0x46753e={'text':_0x4bcfb7(0x21b)+_0x137ad2,'footer':config[_0x4bcfb7(0x3a0)],'title':_0x4bcfb7(0x2b5),'buttonText':_0x4bcfb7(0x22a),'sections':_0x25cd45};await _0x2149df[_0x4bcfb7(0x312)](_0x4d5bcc,_0x46753e,_0x210a58);}catch(_0x90de45){console['log'](_0x90de45),await _0x2149df['sendMessage'](_0x4d5bcc,{'text':_0x4bcfb7(0x348)},{'quoted':_0x210a58});}}),cmd({'pattern':_0x2214bd(0x30b),'alias':['ytsong'],'use':_0x2214bd(0x37a),'react':'🎧','desc':'Download\x20songs','filename':__filename},async(_0x2df052,_0x29ce9a,_0x2545ce,{from:_0x23ccd8,prefix:_0x2fbaa9,q:_0x37496e,reply:_0x1069c4})=>{const _0x58923a=_0x2214bd;try{if(!_0x37496e)return await _0x1069c4(_0x58923a(0x1df));const _0x9136f4=_0x58923a(0x2da)+encodeURIComponent(_0x37496e);let _0x13a4f8;try{_0x13a4f8=await axios['get'](_0x9136f4);}catch(_0x254a92){return console[_0x58923a(0x3a1)](_0x58923a(0x2f5),_0x254a92['message']),await _0x1069c4(_0x58923a(0x38d));}const _0x8324ec=_0x13a4f8[_0x58923a(0x1ec)];if(!_0x8324ec||!_0x8324ec[_0x58923a(0x30c)]||!_0x8324ec[_0x58923a(0x322)]||!_0x8324ec[_0x58923a(0x2c8)])return await _0x1069c4('⚠️\x20Failed\x20to\x20retrieve\x20valid\x20song\x20data.\x20Please\x20check\x20your\x20query\x20or\x20try\x20again\x20later.');const _0x467980=_0x58923a(0x376)+_0x8324ec[_0x58923a(0x322)]+'\x0a*🔗\x20URL:*\x20'+_0x37496e,_0x611c98=[{'buttonId':_0x2fbaa9+_0x58923a(0x399)+_0x8324ec[_0x58923a(0x30c)],'buttonText':{'displayText':_0x58923a(0x220)},'type':0x1},{'buttonId':_0x2fbaa9+('spad\x20'+_0x8324ec[_0x58923a(0x30c)]+'&'+_0x8324ec['imageURL']+'&'+_0x8324ec[_0x58923a(0x322)]),'buttonText':{'displayText':_0x58923a(0x2b8)},'type':0x1}],_0x52367c={'image':{'url':_0x8324ec[_0x58923a(0x2c8)]},'caption':_0x467980,'footer':config[_0x58923a(0x3a0)]||_0x58923a(0x1f8),'buttons':_0x611c98,'headerType':0x4};if(config['BUTTON']===_0x58923a(0x323))_0x2df052[_0x58923a(0x24f)](_0x23ccd8,{'image':{'url':_0x8324ec[_0x58923a(0x2c8)]},'caption':_0x467980,'footer':config[_0x58923a(0x3a0)],'buttons':[{'buttonId':_0x2fbaa9+'spa\x20'+_0x8324ec['url'],'buttonText':{'displayText':_0x58923a(0x220)},'type':0x1},{'buttonId':_0x2fbaa9+(_0x58923a(0x22d)+_0x8324ec['url']+'&'+_0x8324ec['imageURL']+'&'+_0x8324ec[_0x58923a(0x322)]),'buttonText':{'displayText':_0x58923a(0x2b8)},'type':0x1}],'headerType':0x4},{'quoted':_0x29ce9a});else config[_0x58923a(0x1da)]==='false'&&await _0x2df052[_0x58923a(0x35c)](_0x23ccd8,_0x52367c,_0x29ce9a);}catch(_0x38d78c){console[_0x58923a(0x3a1)](_0x58923a(0x22f),_0x38d78c),await _0x1069c4('❌\x20An\x20unexpected\x20error\x20occurred.\x20Please\x20try\x20again\x20later.');}}),cmd({'pattern':_0x2214bd(0x285),'react':'🎵','dontAddCommandList':!![],'filename':__filename},async(_0x15b5ef,_0x4029ff,_0x3154c7,{from:_0x39f6e5,q:_0x395a68,reply:_0xa5d786})=>{const _0xbb1d2=_0x2214bd;if(!_0x395a68)return await _0xa5d786('🔍\x20Please\x20enter\x20a\x20search\x20keyword.');try{const _0x41b5bc=await yts(_0x395a68),_0x290760=_0x41b5bc[_0xbb1d2(0x202)];if(!_0x290760||_0x290760[_0xbb1d2(0x29d)]===0x0)return await _0xa5d786(_0xbb1d2(0x366));await _0xa5d786(_0xbb1d2(0x2fa)+_0x290760[_0xbb1d2(0x29d)]+_0xbb1d2(0x23d));let _0x469da7=!![];for(const _0x476911 of _0x290760){const _0x21f086=_0xbb1d2(0x1eb)+_0x476911['title']+'\x0a`👁️\x20*Views:*`\x20'+_0x476911['views']+'\x0a`⏱️\x20*Duration:*`\x20'+_0x476911[_0xbb1d2(0x34b)]+_0xbb1d2(0x296);try{const _0x1c3760=await(await fetch(_0x476911[_0xbb1d2(0x32e)]))[_0xbb1d2(0x207)]();await safeSend(_0x15b5ef,_0x39f6e5,{'image':_0x1c3760,'caption':_0x21f086});}catch(_0x540732){console[_0xbb1d2(0x3a1)](_0xbb1d2(0x317),_0x540732);}try{const _0x548b7a=await fetchWithRetry(_0xbb1d2(0x252)+encodeURIComponent(_0x476911['url'])+'&format=mp3'),_0x429b2a=_0x548b7a[_0xbb1d2(0x204)]['download'],_0xf47254=await getFileSizeInMB(_0x429b2a);if(_0xf47254>0x10){await _0x15b5ef['sendMessage'](_0x39f6e5,{'text':_0xbb1d2(0x2d1)+_0x476911['title']+_0xbb1d2(0x2ed)+_0xf47254[_0xbb1d2(0x36e)](0x2)+'\x20MB\x20exceeds\x20limit.'});continue;}const _0x4a8d42=await(await fetch(_0x429b2a))[_0xbb1d2(0x207)]();await safeSend(_0x15b5ef,_0x39f6e5,{'audio':_0x4a8d42,'mimetype':_0xbb1d2(0x200),'ptt':!![]},{'quoted':_0x4029ff});}catch(_0x4154e2){console[_0xbb1d2(0x3a1)](_0xbb1d2(0x316)+_0x476911['title'],_0x4154e2),await _0x15b5ef[_0xbb1d2(0x24f)](_0x39f6e5,{'text':_0xbb1d2(0x289)+_0x476911[_0xbb1d2(0x322)]+'\x22.'});}if(_0x469da7){_0x469da7=![];continue;}await _0x15b5ef[_0xbb1d2(0x24f)](_0x39f6e5,{'text':_0xbb1d2(0x338)}),await new Promise(_0x1223f8=>setTimeout(_0x1223f8,0x28*0x3e8));}await _0x15b5ef['sendMessage'](_0x39f6e5,{'text':_0xbb1d2(0x1f7)+_0x290760[_0xbb1d2(0x29d)]+_0xbb1d2(0x23e)});}catch(_0x14586e){console[_0xbb1d2(0x3a1)](_0xbb1d2(0x327),_0x14586e),await _0xa5d786('⚠️\x20Something\x20went\x20wrong.\x20Try\x20again\x20later.');}});async function fetchWithRetry(_0x311928,_0x35457c=0x3,_0x3604ff=0xbb8){const _0x40d19=_0x2214bd;for(let _0x82d0b5=0x1;_0x82d0b5<=_0x35457c;_0x82d0b5++){try{const _0x23240f=await fetch(_0x311928);if(!_0x23240f['ok'])throw new Error(_0x40d19(0x26c)+_0x23240f[_0x40d19(0x351)]);return await _0x23240f[_0x40d19(0x329)]();}catch(_0x544d0d){console[_0x40d19(0x2dc)]('⚠️\x20Retry\x20'+_0x82d0b5+'/'+_0x35457c+'\x20failed:',_0x544d0d[_0x40d19(0x2fe)]||_0x544d0d);if(_0x82d0b5<_0x35457c)await new Promise(_0x5100cd=>setTimeout(_0x5100cd,_0x3604ff));}}throw new Error(_0x40d19(0x32c)+_0x311928);}async function getFileSizeInMB(_0x3343ac){const _0x5d4ed1=_0x2214bd;try{const _0x2ee087=await axios[_0x5d4ed1(0x392)](_0x3343ac),_0x20d250=_0x2ee087[_0x5d4ed1(0x23b)][_0x5d4ed1(0x29e)];return _0x20d250?parseFloat(_0x20d250)/(0x400*0x400):0x0;}catch{return 0x0;}}async function safeSend(_0x257bc0,_0x4cd72e,_0x1342db,_0x3ebe44={},_0x7a4915=0x2){const _0x156e08=_0x2214bd;for(let _0x50a1df=0x0;_0x50a1df<_0x7a4915;_0x50a1df++){try{return await _0x257bc0[_0x156e08(0x24f)](_0x4cd72e,_0x1342db,_0x3ebe44);}catch(_0x292461){console[_0x156e08(0x2dc)](_0x156e08(0x2bc)+(_0x50a1df+0x1)+_0x156e08(0x34f),_0x292461[_0x156e08(0x2fe)]||_0x292461);if(_0x50a1df===_0x7a4915-0x1)throw _0x292461;}}}
+const { cmd, commands } = require('../command');
+const axios = require('axios');
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../lib/functions');
+
+cmd({
+    pattern: "3dcomic",
+    desc: "Create a 3D Comic-style text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-online-3d-comic-style-text-effects-817.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+cmd({
+    pattern: "3dcrack",
+    desc: "Create a 3d crack text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-3d-crack-text-effect-online-704.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+cmd({
+    pattern: "Foggy",
+    desc: "Create a 3D Comic-style text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/foggy-rainy-text-effect-75.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "dragonball",
+    desc: "Create a 3D Comic-style text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-dragon-ball-style-text-effects-online-809.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "deadpool",
+    desc: "Create a deadpool text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-text-effects-in-the-style-of-the-deadpool-logo-818.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "blackpink",
+    desc: "Create a blackpink text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dcomic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-a-blackpink-style-logo-with-members-signatures-810.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "neonlight",
+    desc: "Create a neon light text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: neonlight Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-colorful-neon-light-text-effects-online-797.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "cat",
+    desc: "Create a cat text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: cat Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/handwritten-text-on-foggy-glass-online-680.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "sadgirl",
+    desc: "Create a sadgirl text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: sadgirl Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/write-text-on-wet-glass-online-589.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "pornhubb",
+    desc: "Create a pornhub text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: pornhub Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-pornhub-style-logos-online-free-549.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "naruto",
+    desc: "Create a Naruto text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: naruto Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "thor",
+    desc: "Create a Thor text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: thor Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-thor-logo-style-text-effects-online-for-free-796.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "america",
+    desc: "Create  American text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: America Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/free-online-american-flag-3d-text-effect-generator-725.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "eraser",
+    desc: "Create a Eraser text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: Eraser Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-eraser-deleting-text-effect-online-717.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "3dpaper",
+    desc: "Create a 3D Paper text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: 3dpaper Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/multicolor-3d-paper-cut-style-text-effect-658.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "futuristic",
+    desc: "Create a futuristic text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: futuristic Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/light-text-effect-futuristic-technology-style-648.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "clouds",
+    desc: "Create a Clouds text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: Clouds Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/write-text-effect-clouds-in-the-sky-online-619.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "sans",
+    desc: "Create a Sand text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: sand Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/write-in-sand-summer-beach-online-free-595.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "galaxy",
+    desc: "Create a Galaxy text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: galaxy Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-galaxy-wallpaper-mobile-online-528.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "leaf",
+    desc: "Create a Leaf text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: leaf Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/green-brush-text-effect-typography-maker-online-153.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "sunset",
+    desc: "Create a sunset text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: sunset Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-sunset-light-text-effects-online-807.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "nigeria",
+    desc: "Create a Nigeria text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: nigeria Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/nigeria-3d-flag-text-effect-online-free-753.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "devilwings",
+    desc: "Create a Devil Wings. text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: devilwings Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/neon-devil-wings-text-effect-online-683.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "hacker",
+    desc: "Create a Hacker text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: hacker Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-anonymous-hacker-avatars-cyan-neon-677.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "boomm",
+    desc: "Create a Boom text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: boom Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "luxury",
+    desc: "Create a Luxury  text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: luxury Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/floral-luxury-logo-collection-for-branding-616.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "zodiac",
+    desc: "Create a 3D Comic-style text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: Zodiac Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-star-zodiac-wallpaper-mobile-604.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "angelwings",
+    desc: "Create a Angel Wings text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: angelwings Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/angel-wing-effect-329.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "bulb",
+    desc: "Create a Bulb text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: bulb Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "tatoo",
+    desc: "Create a Tatoo ext effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: Tatoo Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/make-tattoos-online-by-empire-tech-309.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "castle",
+    desc: "Create a  Castle text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: castle Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-a-3d-castle-pop-out-mobile-photo-effect-786.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "frozen",
+    desc: "Create a Frozen text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: frozen Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-a-frozen-christmas-text-effect-online-792.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "paint",
+    desc: "Create a Paint text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: paint Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-3d-colorful-paint-text-effect-online-801.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "birthday",
+    desc: "Create a Birthdaytext effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: birthday Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/beautiful-3d-foil-balloon-effects-for-holidays-and-birthday-803.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "typography",
+    desc: "Create a Typography text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: Typography Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/create-typography-status-online-with-impressive-leaves-357.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "bear",
+    desc: "Create a Bear text effect",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply }) => {
+    try {
+        if (!args.length) {
+            return reply("❌ Please provide a name. Example: bear Empire");
+        }
+        
+        const name = args.join(" ");
+        
+        // API URL with user-provided name
+        const apiUrl = `https://api-pink-venom.vercel.app/api/logo?url=https://en.ephoto360.com/free-bear-logo-maker-online-673.html&name=${encodeURIComponent(name)}`;
+
+        // Fetch JSON response
+        const result = await fetchJson(apiUrl);
+
+        // Check if the download_url is present
+        if (!result?.result?.download_url) {
+            return;
+        }
+
+        // Send the 3D Comic-style text effect image
+        await conn.sendMessage(from, {
+            image: {
+                url: result.result.download_url
+            }
+        });
+
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "valorant",
+    desc: "Create a Valorant YouTube banner with three text inputs",
+    category: "logo",
+    react: "🎨",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, prefix, args, reply }) => {
+    try {
+        if (args.length < 3) {
+            return reply(`❌ Please provide 3 text inputs. Example:\n${prefix}valorant Text1 Text2 Text3`);
+        }
+
+        // Extract the three text inputs
+        const text1 = args[0];
+        const text2 = args[1];
+        const text3 = args.slice(2).join(" ");
+
+        // Build the API URL
+        const apiUrl = `https://api.nexoracle.com/ephoto360/valorant-youtube-banner?apikey=MepwBcqIM0jYN0okD&text1=${encodeURIComponent(text1)}&text2=${encodeURIComponent(text2)}&text3=${encodeURIComponent(text3)}`;
+
+        // Fetch the logo as a buffer
+        const buffer = await getBuffer(apiUrl); // Ensure this gets image data
+
+        // Send the image with the buffer data and include the quoted message if it exists
+        const options = quoted ? { quoted: mek } : {};
+
+        // Send the Valorant YouTube banner as an image
+        await conn.sendMessage(from, {
+            image: buffer, 
+            caption: "Here is your Valorant YouTube banner!"
+        }, options);
+    } catch (e) {
+        return reply(`*An error occurred while processing your request.*\n\n_Error:_ ${e.message}`);
+    }
+});
